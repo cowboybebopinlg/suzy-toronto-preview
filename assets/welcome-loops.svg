@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 460" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="paper" x2="1" y2="1">
+      <stop stop-color="#FFF5FA"/>
+      <stop offset="0.55" stop-color="#FFFAFC"/>
+      <stop offset="1" stop-color="#FCEAF2"/>
+    </linearGradient>
+    <radialGradient id="quiet-center">
+      <stop offset="0.25" stop-color="#FFFAFC" stop-opacity="0.94"/>
+      <stop offset="0.7" stop-color="#FFFAFC" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#FFFAFC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path fill="url(#paper)" d="M0 0h1440v460H0z"/>
+  <g fill="none" stroke="#C2185B" stroke-width="3" stroke-linecap="round" opacity="0.19">
+    <path d="M-140 125C-20 10 135 34 160 108S83 219 64 144 235 18 306 76 339 195 276 168 294-9 421 27 491 154 437 143 448 20 565 53 642 181 589 167 632 29 739 72 795 189 755 172 817 31 925 60 993 188 944 166 1011 12 1119 54 1180 191 1127 166 1215 18 1325 58 1370 192 1320 170 1458 20 1580 95"/>
+    <path d="M-145 347C-33 238 100 235 137 305S80 421 52 355 204 224 275 280 305 418 246 388 304 232 412 277 449 406 395 382 447 226 552 282 585 422 531 389 595 238 701 282 737 410 683 390 749 242 855 284 885 418 836 390 899 241 1007 286 1044 415 988 390 1058 234 1164 280 1194 416 1145 390 1210 240 1319 282 1356 421 1295 390 1454 239 1585 300"/>
+  </g>
+  <ellipse cx="720" cy="225" rx="570" ry="270" fill="url(#quiet-center)"/>
+</svg>
