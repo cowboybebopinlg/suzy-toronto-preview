@@ -4,8 +4,70 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Suzy Toronto — Hand-Crafted Gifts, Calendars & Inspiration</title>
+  <meta name="description" content="Official Suzy Toronto store. Hand-crafted gifts, 2027 wall calendars, inspirational art prints, greeting cards, and drinkware created in New Smyrna Beach, Florida.">
+  <link rel="canonical" href="https://suzytoronto.com/">
+
+  <!-- Open Graph / Facebook / Pinterest -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://suzytoronto.com/">
+  <meta property="og:title" content="Suzy Toronto — Hand-Crafted Gifts, Calendars & Inspiration">
+  <meta property="og:description" content="Inspiring women through art, humor, and wonderful wacky sisterhood. Shop authentic Suzy Toronto calendars, gifts, drinkware, and keepsakes.">
+  <meta property="og:image" content="https://suzytoronto.com/wp-content/uploads/2026/03/PO-LG27CAL_OPT.jpg">
+  <meta property="og:site_name" content="Suzy Toronto">
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://suzytoronto.com/">
+  <meta name="twitter:title" content="Suzy Toronto — Hand-Crafted Gifts, Calendars & Inspiration">
+  <meta name="twitter:description" content="Inspiring women through art, humor, and wonderful wacky sisterhood. Shop authentic Suzy Toronto calendars, gifts, drinkware, and keepsakes.">
+  <meta name="twitter:image" content="https://suzytoronto.com/wp-content/uploads/2026/03/PO-LG27CAL_OPT.jpg">
+
+  <!-- Content Security Policy (Ready for Google Analytics / Tag Manager) -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' https://fonts.googleapis.com; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data: https://cdn.shopify.com https://suzytoronto.com https://www.google-analytics.com https://*.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://suzy-toronto-fpkxqg4y.myshopify.com https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; frame-ancestors 'none';">
+
+  <!-- Structured Data: JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://suzytoronto.com/#organization",
+        "name": "Suzy Toronto",
+        "url": "https://suzytoronto.com",
+        "logo": "https://suzytoronto.com/wp-content/uploads/2020/02/cropped-STS_LOGO-website-header2.jpg",
+        "description": "Hand-crafted art, gifts, 2027 calendars, and uplifting inspiration for women.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "New Smyrna Beach",
+          "addressRegion": "FL",
+          "addressCountry": "US"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+1-800-444-7899",
+          "contactType": "Customer Service",
+          "email": "hugs@suzytoronto.com"
+        }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://suzytoronto.com/#website",
+        "url": "https://suzytoronto.com",
+        "name": "Suzy Toronto",
+        "publisher": { "@id": "https://suzytoronto.com/#organization" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://suzytoronto.com/?search={search_term_string}#shop",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    ]
+  }
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <style>
     :root {
@@ -41,101 +103,126 @@
       overflow-x: hidden;
     }
 
-    /* Top Announcement Bar in Authentic Suzy Magenta */
-    .announcement-bar {
-      background: var(--suzy-magenta);
-      color: #ffffff;
-      text-align: center;
-      padding: 10px 16px;
-      font-size: 15px;
-      font-weight: 600;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 12px;
-      position: sticky;
-      top: 0;
-      z-index: 1000;
-    }
-
-    .announcement-bar .badge {
-      background: #ffffff;
-      color: var(--suzy-magenta);
-      padding: 2px 10px;
-      border-radius: 12px;
-      font-size: 12px;
-      font-weight: 800;
-      text-transform: uppercase;
-      cursor: pointer;
-      transition: transform 0.15s ease;
-    }
-
-    .announcement-bar .badge:hover {
-      transform: scale(1.05);
-    }
-
     /* Header Navigation with Authentic Hand-Scripted Logo */
     .site-header {
-      background: #ffffff;
-      border-bottom: 1px solid var(--suzy-border);
+      background: #000000;
+      border-bottom: 1px solid #2e2e2e;
       position: sticky;
-      top: 41px;
+      top: 0;
       z-index: 900;
-      box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+      box-shadow: 0 2px 14px rgba(0, 0, 0, 0.4);
     }
 
     .nav-container {
-      max-width: 1240px;
+      max-width: 1560px;
       margin: 0 auto;
-      padding: 12px 24px;
+      padding: 10px 24px;
       display: flex;
       justify-content: space-between;
       align-items: center;
-      gap: 20px;
+      gap: 16px;
+      box-sizing: border-box;
+      min-height: 64px;
+    }
+
+    .brand-logo-link {
+      display: inline-flex;
+      align-items: center;
+      height: 44px;
+      text-decoration: none;
+      flex-shrink: 0;
     }
 
     .brand-logo-img {
-      height: 54px;
+      height: 44px;
       width: auto;
+      max-height: 44px;
+      object-fit: contain;
       display: block;
       cursor: pointer;
+      transition: opacity 0.2s ease;
+    }
+
+    .brand-logo-link:hover .brand-logo-img {
+      opacity: 0.92;
+    }
+
+    .desktop-nav {
+      display: flex;
+      align-items: center;
+      height: 44px;
     }
 
     .nav-menu {
       display: flex;
-      gap: 6px;
+      gap: 8px;
       list-style: none;
       align-items: center;
+      height: 44px;
+      margin: 0;
+      padding: 0;
     }
 
     .nav-item {
       position: relative;
+      height: 44px;
+      display: flex;
+      align-items: center;
     }
 
     .nav-link {
       font-family: var(--font-heading);
       font-weight: 700;
-      font-size: 16px;
-      color: var(--suzy-text);
+      font-size: 15px;
+      color: #ffffff;
       text-decoration: none;
-      padding: 10px 14px;
-      min-height: 48px;
+      padding: 0 14px;
+      height: 44px;
+      box-sizing: border-box;
       display: inline-flex;
       align-items: center;
-      gap: 4px;
+      justify-content: center;
+      gap: 6px;
       border-radius: 8px;
-      transition: all 0.2s ease;
+      transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
       cursor: pointer;
       user-select: none;
+      white-space: nowrap;
+      line-height: 1;
+      border: 1px solid transparent;
     }
 
     .nav-link:hover, .nav-link:focus, .nav-item.open .nav-link, .nav-link.active {
-      background: #fdf2f8;
-      color: var(--suzy-magenta);
+      background: #2b1825;
+      color: #ff9bcb;
+      border-color: rgba(255, 155, 203, 0.2);
     }
 
     .nav-link.highlight {
-      color: var(--suzy-magenta);
+      color: #ff9bcb;
+    }
+
+    .nav-chevron {
+      width: 14px;
+      height: 14px;
+      flex-shrink: 0;
+      opacity: 0.75;
+      transition: transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .nav-item:hover .nav-chevron,
+    .nav-item.open .nav-chevron {
+      transform: rotate(180deg);
+      opacity: 1;
+    }
+
+    .nav-story-heart {
+      width: 15px;
+      height: 15px;
+      color: #ff9bcb;
+      flex-shrink: 0;
+      display: inline-block;
     }
 
     /* Submenu Dropdown */
@@ -144,13 +231,13 @@
       position: absolute;
       top: 100%;
       left: 0;
-      background: #ffffff;
+      background: #171717;
       min-width: 290px;
       box-shadow: 0 12px 30px rgba(0,0,0,0.12);
       border-radius: 12px;
       padding: 8px;
       list-style: none;
-      border: 1px solid var(--suzy-border);
+      border: 1px solid #444444;
       z-index: 950;
       animation: fadeInMenu 0.15s ease-out;
     }
@@ -172,7 +259,7 @@
       padding: 10px 14px;
       font-size: 15px;
       font-weight: 600;
-      color: var(--suzy-text);
+      color: #ffffff;
       text-decoration: none;
       border-radius: 6px;
       min-height: 44px;
@@ -181,8 +268,8 @@
     }
 
     .dropdown-link:hover {
-      background: #fdf2f8;
-      color: var(--suzy-magenta);
+      background: #2b1825;
+      color: #ff9bcb;
       font-weight: 700;
       padding-left: 18px;
     }
@@ -192,69 +279,139 @@
       display: flex;
       align-items: center;
       gap: 12px;
+      height: 44px;
+      flex-shrink: 0;
     }
 
     .nav-search-box {
       position: relative;
       display: flex;
       align-items: center;
+      height: 44px;
     }
 
     .nav-search-input {
       height: 44px;
-      padding: 0 14px 0 38px;
+      padding: 0 16px 0 40px;
       border-radius: 22px;
-      border: 1px solid var(--suzy-border);
-      font-size: 15px;
-      width: 170px;
-      transition: width 0.25s ease, border-color 0.2s ease;
-      background: #fafafa;
+      border: 1px solid #555555;
+      font-family: var(--font-body);
+      font-size: 14px;
+      width: 180px;
+      transition: width 0.25s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+      background: #1c1c1c;
+      color: #ffffff;
+      box-sizing: border-box;
+      line-height: normal;
     }
 
     .nav-search-input:focus {
-      width: 230px;
-      border-color: var(--suzy-magenta);
+      width: 240px;
+      border-color: #ff9bcb;
       outline: none;
-      background: #ffffff;
-      box-shadow: 0 0 0 3px rgba(194, 24, 91, 0.15);
+      background: #242424;
+      box-shadow: 0 0 0 3px rgba(255, 155, 203, 0.25);
     }
 
     .nav-search-icon {
       position: absolute;
-      left: 12px;
-      color: var(--suzy-text-muted);
-      font-size: 15px;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #bfbfbf;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       pointer-events: none;
+      width: 18px;
+      height: 18px;
     }
 
+    .nav-search-icon svg {
+      width: 18px;
+      height: 18px;
+      display: block;
+    }
+
+    /* Redesigned Premium Cart Button */
     .nav-cart-btn {
-      background: var(--suzy-magenta);
-      color: #ffffff;
-      border: none;
       height: 44px;
       padding: 0 18px;
       border-radius: 22px;
+      background: linear-gradient(135deg, #D81B60 0%, #AD1457 100%);
+      color: #ffffff;
+      border: 1px solid rgba(255, 255, 255, 0.25);
+      font-family: var(--font-heading);
       font-size: 15px;
       font-weight: 700;
+      letter-spacing: 0.2px;
       cursor: pointer;
-      display: flex;
+      display: inline-flex;
       align-items: center;
-      gap: 8px;
-      transition: all 0.2s ease;
+      justify-content: center;
+      gap: 9px;
+      box-shadow: 0 2px 10px rgba(194, 24, 91, 0.4);
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+      box-sizing: border-box;
+      white-space: nowrap;
+      user-select: none;
+      flex-shrink: 0;
     }
 
     .nav-cart-btn:hover {
-      background: var(--suzy-magenta-dark);
-      transform: scale(1.03);
+      background: linear-gradient(135deg, #E91E63 0%, #C2185B 100%);
+      box-shadow: 0 4px 16px rgba(233, 30, 99, 0.55);
+      transform: translateY(-1px);
+      border-color: rgba(255, 255, 255, 0.4);
+    }
+
+    .nav-cart-btn:active {
+      transform: translateY(0);
+      box-shadow: 0 2px 6px rgba(194, 24, 91, 0.35);
+    }
+
+    .cart-btn-icon {
+      width: 19px;
+      height: 19px;
+      flex-shrink: 0;
+      display: block;
+    }
+
+    .cart-btn-label {
+      font-weight: 700;
+      line-height: 1;
+      display: inline-block;
     }
 
     .cart-count-badge {
       background: #ffffff;
-      color: var(--suzy-magenta);
-      border-radius: 12px;
-      padding: 1px 7px;
-      font-size: 13px;
+      color: #C2185B;
+      font-family: var(--font-heading);
+      font-size: 12px;
       font-weight: 800;
+      min-width: 22px;
+      height: 22px;
+      padding: 0 6px;
+      border-radius: 11px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 1;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+      flex-shrink: 0;
+      box-sizing: border-box;
+    }
+
+    .nav-search-input::placeholder,
+    .mobile-search-input::placeholder {
+      color: #bfbfbf;
+      opacity: 1;
+    }
+
+    .site-header :is(a, button):focus-visible,
+    .mobile-drawer-close:focus-visible {
+      outline: 3px solid #ff9bcb;
+      outline-offset: 3px;
     }
 
     /* Page View Containers (Single Page Application Switcher) */
@@ -283,9 +440,9 @@
     }
 
     .shop-hero h1 {
-      font-family: var(--font-heading);
+      font-family: 'Spicy Rice', serif;
       font-size: 38px;
-      font-weight: 800;
+      font-weight: 400;
       color: var(--suzy-magenta);
       margin-bottom: 10px;
       line-height: 1.2;
@@ -352,43 +509,48 @@
       color: var(--suzy-text-muted);
     }
 
-    /* Category Filter Chips */
+    /* Compact category selector */
     .category-filter {
-      display: flex;
-      gap: 10px;
-      overflow-x: auto;
-      padding-bottom: 10px;
+      width: 100%;
+      max-width: 340px;
       margin-bottom: 24px;
-      scrollbar-width: thin;
     }
 
-    .filter-chip {
-      background: #ffffff;
-      border: 2px solid var(--suzy-border);
-      color: var(--suzy-text);
-      padding: 8px 18px;
-      border-radius: 30px;
+    .category-filter label {
+      display: block;
+      margin-bottom: 8px;
       font-size: 15px;
       font-weight: 700;
-      cursor: pointer;
+      color: var(--suzy-purple);
+    }
+
+    .category-select {
+      width: 100%;
       min-height: 48px;
-      white-space: nowrap;
-      transition: all 0.2s ease;
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
+      padding: 10px 44px 10px 16px;
+      border: 2px solid var(--suzy-border);
+      border-radius: 10px;
+      background-color: #fff;
+      background-image: url("assets/icons/category-arrow.svg");
+      background-repeat: no-repeat;
+      background-position: right 14px center;
+      background-size: 20px 20px;
+      appearance: none;
+      font-family: inherit;
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--suzy-text);
+      cursor: pointer;
     }
 
-    .filter-chip:hover {
+    .category-select:hover {
       border-color: var(--suzy-magenta);
-      color: var(--suzy-magenta);
     }
 
-    .filter-chip.active {
-      background: var(--suzy-magenta);
+    .category-select:focus-visible {
       border-color: var(--suzy-magenta);
-      color: #ffffff;
-      box-shadow: 0 2px 8px rgba(194, 24, 91, 0.3);
+      outline: 3px solid var(--suzy-purple);
+      outline-offset: 3px;
     }
 
     /* Product Grid */
@@ -396,6 +558,12 @@
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
       gap: 24px;
+    }
+
+    @media (min-width: 993px) {
+      .product-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
     }
 
     /* Product Card */
@@ -607,9 +775,9 @@
     }
 
     .about-hero h1 {
-      font-family: var(--font-heading);
+      font-family: 'Spicy Rice', serif;
       font-size: 44px;
-      font-weight: 800;
+      font-weight: 400;
       color: var(--suzy-purple);
       margin-bottom: 16px;
       line-height: 1.2;
@@ -676,7 +844,6 @@
       background: #fdf2f8;
       padding: 12px 18px;
       border-radius: 8px;
-      border-left: 4px solid var(--suzy-magenta);
       font-size: 17px;
     }
 
@@ -858,8 +1025,12 @@
        FOOTER
        =================================================== */
     .site-footer {
-      background: #ffffff;
-      border-top: 2px solid var(--suzy-border);
+      --suzy-text-muted: #cccccc;
+      --suzy-purple: #ffffff;
+      --suzy-magenta: #ff9bcb;
+      background: #000000;
+      color: #ffffff;
+      border-top: 2px solid #333333;
       padding: 48px 24px 24px 24px;
       margin-top: 60px;
     }
@@ -871,7 +1042,7 @@
       grid-template-columns: 2fr 1fr 1fr 1fr;
       gap: 36px;
       padding-bottom: 36px;
-      border-bottom: 1px solid #f1f5f9;
+      border-bottom: 1px solid #333333;
     }
 
     @media (max-width: 850px) {
@@ -961,10 +1132,297 @@
       max-height: 90vh;
       border-radius: 16px;
       overflow-y: auto;
+      scrollbar-gutter: stable;
+      scrollbar-width: thin;
+      scrollbar-color: var(--suzy-magenta) #f5eee8;
       padding: 32px;
       position: relative;
       box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
       border: 1px solid var(--suzy-border);
+    }
+
+    .modal-content::-webkit-scrollbar {
+      width: 10px;
+      height: 10px;
+      display: block;
+    }
+
+    .modal-content::-webkit-scrollbar-track {
+      background: #f5eee8;
+      border-radius: 6px;
+    }
+
+    .modal-content::-webkit-scrollbar-thumb {
+      background: var(--suzy-magenta);
+      border-radius: 6px;
+      border: 2px solid #f5eee8;
+    }
+
+    .modal-content::-webkit-scrollbar-thumb:hover {
+      background: var(--suzy-purple);
+    }
+
+    /* Modal Floating Scroll Prompt */
+    .modal-scroll-cue {
+      position: sticky;
+      bottom: -32px;
+      left: -32px;
+      right: -32px;
+      width: calc(100% + 64px);
+      margin-top: 16px;
+      padding: 12px 20px;
+      background: linear-gradient(to top, rgba(255, 255, 255, 0.98) 75%, rgba(255, 255, 255, 0));
+      display: none;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      color: var(--suzy-magenta);
+      font-weight: 700;
+      font-size: 14px;
+      cursor: pointer;
+      z-index: 10;
+      border-bottom-left-radius: 16px;
+      border-bottom-right-radius: 16px;
+      box-shadow: 0 -4px 12px rgba(0,0,0,0.03);
+      user-select: none;
+    }
+
+    .modal-scroll-cue.visible {
+      display: flex;
+    }
+
+    .modal-scroll-cue:hover {
+      color: var(--suzy-purple);
+      background: linear-gradient(to top, #ffffff 85%, rgba(255, 255, 255, 0));
+    }
+
+    .modal-scroll-cue .pika-icon {
+      width: 18px;
+      height: 18px;
+      animation: cueBounce 1.5s infinite;
+    }
+
+    @keyframes cueBounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(4px); }
+    }
+
+    /* Product Description Scroll Box */
+    .modal-desc-box {
+      border: 1.5px solid #E8E2D9;
+      border-radius: 10px;
+      background: #FAF8F5;
+      padding: 12px 14px;
+      margin: 12px 0 16px 0;
+    }
+
+    .modal-desc-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid #EDE6DC;
+    }
+
+    .modal-desc-title {
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--suzy-purple);
+    }
+
+    .modal-desc-badge {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--suzy-magenta);
+      background: rgba(194, 24, 91, 0.08);
+      padding: 3px 10px;
+      border-radius: 12px;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: opacity 0.2s ease;
+    }
+
+    .modal-desc-badge .pika-icon {
+      width: 12px;
+      height: 12px;
+    }
+
+    .modal-desc-content {
+      font-size: 15px;
+      line-height: 1.6;
+      color: var(--suzy-text);
+      max-height: 180px;
+      overflow-y: scroll; /* ALWAYS show scrollbar so user sees track */
+      scrollbar-width: thin;
+      scrollbar-color: var(--suzy-magenta) #FAF8F5;
+      padding-right: 8px;
+    }
+
+    .modal-desc-content::-webkit-scrollbar {
+      width: 8px;
+      display: block;
+    }
+
+    .modal-desc-content::-webkit-scrollbar-track {
+      background: #EDE6DC;
+      border-radius: 4px;
+    }
+
+    .modal-desc-content::-webkit-scrollbar-thumb {
+      background: var(--suzy-magenta);
+      border-radius: 4px;
+    }
+
+    /* Sub-Brand Switcher & Kukana Spotlight Banner */
+    .brand-switcher-wrapper {
+      margin-bottom: 24px;
+      padding: 16px 20px;
+      background: #FFFFFF;
+      border: 1px solid var(--suzy-border);
+      border-radius: 14px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.03);
+    }
+
+    .brand-switcher-label {
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--suzy-text-muted);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .brand-switcher-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .brand-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 20px;
+      border-radius: 30px;
+      font-size: 15px;
+      font-weight: 700;
+      border: 2px solid #E8E2D9;
+      background: #FAF8F5;
+      color: var(--suzy-purple);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      min-height: 44px;
+    }
+
+    .brand-pill:hover {
+      border-color: var(--suzy-magenta);
+      color: var(--suzy-magenta);
+      background: #FFF;
+      transform: translateY(-1px);
+    }
+
+    .brand-pill.active {
+      background: var(--suzy-magenta);
+      border-color: var(--suzy-magenta);
+      color: #FFFFFF;
+      box-shadow: 0 4px 12px rgba(194, 24, 91, 0.25);
+    }
+
+    .brand-pill.kukana-pill {
+      color: var(--suzy-teal);
+      border-color: #A3E4D7;
+      background: #E8F8F5;
+    }
+
+    .brand-pill.kukana-pill:hover {
+      border-color: var(--suzy-teal);
+      background: #D1F2EB;
+      color: var(--suzy-teal);
+    }
+
+    .brand-pill.kukana-pill.active {
+      background: var(--suzy-teal);
+      border-color: var(--suzy-teal);
+      color: #FFFFFF;
+      box-shadow: 0 4px 12px rgba(14, 102, 85, 0.25);
+    }
+
+    /* Kukana Spotlight Banner */
+    .kukana-spotlight-card {
+      margin-bottom: 24px;
+      padding: 24px 28px;
+      background: linear-gradient(135deg, #E8F8F5 0%, #D1F2EB 100%);
+      border: 2px solid #A3E4D7;
+      border-radius: 16px;
+      box-shadow: 0 6px 20px rgba(14, 102, 85, 0.08);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .kukana-spotlight-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 12px;
+      border-radius: 20px;
+      background: var(--suzy-teal);
+      color: #FFFFFF;
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 10px;
+    }
+
+    .kukana-spotlight-badge .pika-icon {
+      width: 14px;
+      height: 14px;
+    }
+
+    .kukana-spotlight-title {
+      font-family: var(--font-heading);
+      font-size: 24px;
+      color: #0B5345;
+      margin-bottom: 8px;
+    }
+
+    .kukana-spotlight-text {
+      font-size: 15px;
+      line-height: 1.6;
+      color: #114B3E;
+      max-width: 900px;
+      margin-bottom: 14px;
+    }
+
+    .kukana-spotlight-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--suzy-teal);
+    }
+
+    .kukana-spotlight-tag-pill {
+      background: #FFFFFF;
+      padding: 6px 14px;
+      border-radius: 12px;
+      border: 1px solid #A3E4D7;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      color: #0E6655;
+    }
+
+    .kukana-spotlight-tag-pill:hover {
+      background: var(--suzy-teal);
+      color: #FFFFFF;
     }
 
     .modal-close {
@@ -1042,7 +1500,7 @@
     .cart-drawer {
       position: fixed;
       top: 0;
-      right: -450px;
+      right: 0;
       width: 420px;
       max-width: 90vw;
       height: 100%;
@@ -1051,11 +1509,17 @@
       z-index: 3001;
       display: flex;
       flex-direction: column;
-      transition: right 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      transform: translateX(calc(100% + 32px));
+      visibility: hidden;
+      pointer-events: none;
+      transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), visibility 0s linear 0.3s;
     }
 
     .cart-drawer.active {
-      right: 0;
+      transform: translateX(0);
+      visibility: visible;
+      pointer-events: auto;
+      transition-delay: 0s;
     }
 
     .cart-drawer-header {
@@ -1235,63 +1699,56 @@
     .mobile-menu-toggle {
       display: none;
       background: transparent;
-      border: 1px solid var(--suzy-border);
+      border: 1px solid #555555;
       width: 44px;
       height: 44px;
       border-radius: 8px;
       cursor: pointer;
-      flex-direction: column;
-      justify-content: center;
       align-items: center;
-      gap: 5px;
-      padding: 9px;
-      color: var(--suzy-purple);
+      justify-content: center;
+      padding: 0;
+      color: #ffffff;
       transition: all 0.15s ease;
       flex-shrink: 0;
+      box-sizing: border-box;
     }
 
     .mobile-menu-toggle:hover, .mobile-menu-toggle:focus {
-      background: #fdf2f8;
-      border-color: var(--suzy-magenta);
-    }
-
-    .hamburger-bar {
-      display: block;
-      width: 22px;
-      height: 2.5px;
-      background: var(--suzy-purple);
-      border-radius: 2px;
-      transition: all 0.25s ease;
+      background: #2b1825;
+      border-color: #ff9bcb;
+      color: #ff9bcb;
     }
 
     .mobile-search-toggle {
       display: none;
-      background: #faf8f5;
-      border: 1px solid var(--suzy-border);
-      width: 42px;
-      height: 42px;
-      border-radius: 50%;
+      background: #1c1c1c;
+      border: 1px solid #555555;
+      width: 44px;
+      height: 44px;
+      border-radius: 22px;
       cursor: pointer;
-      font-size: 16px;
       align-items: center;
       justify-content: center;
-      color: var(--suzy-text);
+      padding: 0;
+      color: #ffffff;
       transition: all 0.15s ease;
       flex-shrink: 0;
+      box-sizing: border-box;
     }
 
     .mobile-search-toggle:hover, .mobile-search-toggle:focus {
-      background: #fdf2f8;
-      border-color: var(--suzy-magenta);
+      background: #2b1825;
+      border-color: #ff9bcb;
+      color: #ff9bcb;
     }
 
     /* Expandable Mobile Search Bar */
     .mobile-search-bar {
       display: none;
       padding: 10px 16px 14px 16px;
-      background: #ffffff;
-      border-top: 1px solid var(--suzy-border);
-      border-bottom: 2px solid #fdf2f8;
+      background: #000000;
+      border-top: 1px solid #333333;
+      border-bottom: 1px solid #333333;
       animation: slideDownSearch 0.2s ease-out;
     }
 
@@ -1315,18 +1772,18 @@
       height: 46px;
       padding: 0 44px 0 40px;
       border-radius: 24px;
-      border: 1.5px solid var(--suzy-border);
+      border: 1.5px solid #666666;
       font-size: 16px;
-      background: #faf8f5;
-      color: var(--suzy-text);
+      background: #1c1c1c;
+      color: #ffffff;
       font-family: var(--font-body);
     }
 
     .mobile-search-input:focus {
       outline: none;
-      border-color: var(--suzy-magenta);
-      background: #ffffff;
-      box-shadow: 0 0 0 3px rgba(194, 24, 91, 0.15);
+      border-color: #ff9bcb;
+      background: #1c1c1c;
+      box-shadow: 0 0 0 3px rgba(255, 155, 203, 0.25);
     }
 
     .mobile-search-close {
@@ -1335,7 +1792,7 @@
       background: transparent;
       border: none;
       font-size: 18px;
-      color: var(--suzy-text-muted);
+      color: #ffffff;
       width: 32px;
       height: 32px;
       border-radius: 50%;
@@ -1388,8 +1845,8 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      border-bottom: 1px solid var(--suzy-border);
-      background: #FAF8F5;
+      border-bottom: 1px solid #333333;
+      background: #000000;
       position: sticky;
       top: 0;
       z-index: 10;
@@ -1401,8 +1858,8 @@
     }
 
     .mobile-drawer-close {
-      background: #ffffff;
-      border: 1px solid var(--suzy-border);
+      background: #1c1c1c;
+      border: 1px solid #666666;
       width: 40px;
       height: 40px;
       border-radius: 50%;
@@ -1411,13 +1868,13 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      color: var(--suzy-text);
+      color: #ffffff;
       transition: background 0.15s ease;
     }
 
     .mobile-drawer-close:hover {
-      background: #fdf2f8;
-      color: var(--suzy-magenta);
+      background: #2b1825;
+      color: #ff9bcb;
     }
 
     .mobile-drawer-body {
@@ -1585,18 +2042,18 @@
        COMPREHENSIVE RESPONSIVE DESIGN BREAKPOINTS
        =================================================== */
 
-    /* Tablet & Smaller Laptops (max-width: 992px) */
-    @media (max-width: 992px) {
+    /* Tablet & Laptops with Limited Width (max-width: 1200px) */
+    @media (max-width: 1200px) {
       .desktop-nav {
         display: none !important;
       }
 
       .mobile-menu-toggle {
-        display: flex !important;
+        display: inline-flex !important;
       }
 
       .mobile-search-toggle {
-        display: flex !important;
+        display: inline-flex !important;
       }
 
       .nav-search-box {
@@ -1627,11 +2084,7 @@
         display: flex !important;
       }
 
-      .announcement-bar {
-        padding: 9px 12px;
-        font-size: 14px;
-        position: relative; /* avoids fixed overlay collision */
-      }
+
 
       .site-header {
         top: 0;
@@ -1681,16 +2134,8 @@
       }
 
       .category-filter {
-        gap: 8px;
+        max-width: none;
         margin-bottom: 18px;
-        padding-bottom: 10px;
-        -webkit-overflow-scrolling: touch;
-      }
-
-      .filter-chip {
-        padding: 8px 14px;
-        font-size: 14px;
-        min-height: 44px;
       }
 
       .product-grid {
@@ -1865,23 +2310,20 @@
       }
 
       .brand-logo-img {
-        height: 38px;
+        height: 40px;
+        max-height: 40px;
       }
 
       .nav-cart-btn {
-        padding: 0 10px;
-        gap: 4px;
+        height: 44px;
+        padding: 0 12px;
+        gap: 6px;
         font-size: 14px;
-        min-width: 44px;
         justify-content: center;
       }
 
       .cart-btn-label {
         display: none;
-      }
-
-      .cart-btn-icon-only {
-        display: inline;
       }
 
       .product-grid {
@@ -1910,24 +2352,103 @@
       }
     }
 
+    /* Shared stage keeps text and image slides the same size. */
+    .hero-carousel { border-bottom: 1px solid var(--suzy-border); }
+    .hero-slide { min-height: 460px; height: 460px; display: flex; align-items: center; justify-content: center; }
+    .hero-slide[hidden] { display: none; }
+    .hero-slide.shop-hero { border: 0; padding: 48px 72px; background: #6AC9C6 url('assets/welcome-teal-spirals.svg') center / cover no-repeat; }
+    .hero-slide.shop-hero h1 { color: #3E1B4D; }
+    .hero-slide.shop-hero p { color: #23484A; }
+    .hero-copy { max-width: 1000px; margin: 0 auto; text-align: center; }
+    .hero-slide h1, .hero-slide h2 { font-family: 'Spicy Rice', serif; font-weight: 400; font-size: clamp(34px, 4vw, 56px); line-height: 1.15; margin-bottom: 20px; }
+    .hero-slide p { font-size: 21px; line-height: 1.5; max-width: 760px; margin: 0 auto 26px; }
+    .hero-badge { font-family: inherit; }
+    .hero-preorder { position: relative; background: #C2185B url('assets/preorder-s-wave.svg') center / 100% 100% no-repeat; color: #fff; padding: 58px 72px; }
+    .hero-preorder::before, .hero-preorder::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      height: 34px;
+      background: #000 url('assets/wacky-stripe-border.svg') repeat-x center / 320px 34px;
+      pointer-events: none;
+    }
+    .hero-preorder::before { top: 0; }
+    .hero-preorder::after { bottom: 0; transform: rotate(180deg); }
+    .hero-preorder-button { border: 2px solid #fff; border-radius: 30px; background: #fff; color: var(--suzy-magenta); padding: 12px 26px; font: 700 17px var(--font-body); min-height: 48px; cursor: pointer; }
+    .hero-preorder-button:hover { background: #fdf2f8; }
+    .hero-image-slide { background: #fff; padding: 0 56px; }
+    .hero-image-slide a { display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; }
+    .hero-image-slide img { display: block; width: 100%; height: 100%; max-width: 1240px; object-fit: contain; }
+    .hero-carousel-controls { position: relative; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 12px; padding: 12px 16px; background: #fff; }
+    .hero-control { display: inline-flex; align-items: center; justify-content: center; min-width: 44px; min-height: 44px; border: 1px solid var(--suzy-border); border-radius: 24px; background: #fff; color: var(--suzy-purple); font: 700 20px var(--font-body); cursor: pointer; }
+    .hero-control:hover { background: #fdf2f8; border-color: var(--suzy-magenta); }
+    .hero-pause { font-size: 14px; padding: 0 16px; }
+    .hero-slide-dots { display: flex; align-items: center; }
+    .hero-dot { border: 0; background: transparent; width: 28px; height: 44px; cursor: pointer; display: grid; place-items: center; padding: 0; }
+    .hero-dot::after { content: ''; width: 9px; height: 9px; border: 1px solid #76616e; border-radius: 50%; background: #fff; }
+    .hero-dot[aria-current="true"]::after { background: var(--suzy-magenta); border-color: var(--suzy-magenta); transform: scale(1.3); }
+    .hero-carousel :is(button, a):focus-visible { outline: 3px solid var(--suzy-purple); outline-offset: 3px; }
+    .hero-preorder button:focus-visible { outline-color: #fff; }
+    .hero-slide-status { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+    @media (max-width: 768px) {
+      .hero-slide { height: 480px; min-height: 480px; }
+      .hero-slide.shop-hero, .hero-preorder { padding: 32px 20px; }
+      .hero-preorder { padding-top: 50px; padding-bottom: 50px; }
+      .hero-preorder::before, .hero-preorder::after { height: 26px; background-size: 280px 26px; }
+      .hero-slide h1, .hero-slide h2 { font-size: clamp(30px, 7.5vw, 42px); }
+      .hero-slide p { font-size: 17px; margin-bottom: 20px; }
+      .hero-image-slide { padding: 0 12px; }
+      .hero-carousel-controls { gap: 5px; }
+      .hero-dot { width: 25px; }
+      .hero-pause { padding: 0 12px; }
+    }
+    /* Pikaicons Free, Duo Solid: inherits the surrounding brand color. */
+    .pika-icon { width: 1.25em; height: 1.25em; display: inline-block; vertical-align: -0.25em; flex-shrink: 0; color: inherit; }
+    .nav-link > span, .mobile-nav-hero-link > span, .mobile-accordion-header > span,
+    .cart-drawer-title > span, .hero-preorder-button,
+    .hero-badge, .about-hero-tag, .team-tagline, .btn-primary > span {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+    }
+    .shop-hero .hero-badge {
+      background: #E5F5F1;
+      border-color: #D0EBE5;
+      color: #C2185B;
+      --pika-secondary-color: #E18CAD;
+      --pika-soft-opacity: 1;
+    }
+    .shop-hero .hero-badge:hover {
+      background: #F4FCF9;
+      border-color: #ADD6CD;
+      color: #C2185B;
+    }
+    .shop-hero .hero-badge .pika-icon { color: #C2185B; }
+    .dropdown-link .pika-icon, .mobile-accordion-content .pika-icon { width: 22px; height: 22px; }
+    .nav-search-icon svg, .mobile-search-toggle svg { width: 19px; height: 19px; }
+    .bottom-icon { display: flex; align-items: center; justify-content: center; }
+    .bottom-icon .pika-icon { width: 24px; height: 24px; }
+    .cart-empty-state > span .pika-icon { width: 56px; height: 56px; color: var(--suzy-magenta); }
+    .qty-btn .pika-icon { width: 20px; height: 20px; }
+    .hero-pause { gap: 5px; }
+    .hero-pause .pika-icon { width: 20px; height: 20px; }
+    .site-footer .pika-icon { color: var(--suzy-magenta); }
+    .site-header, .mobile-drawer-header, .site-footer { --pika-soft-opacity: 0.55; }
+    .dropdown-link .pika-icon, .mobile-accordion-content .pika-icon {
+      color: #C2185B;
+      --pika-secondary-color: #E18CAD;
+      --pika-soft-opacity: 1;
+    }
   </style>
 </head>
 <body>
 
   <!-- Top Announcement Bar in Authentic Suzy Magenta -->
-  <aside class="announcement-bar">
-    <span>📅 <strong>2027 Planners Now Available for Pre-Order!</strong> In-stock items ship immediately with automatic Split Shipping at checkout.</span>
-    <span class="badge" onclick="openHelpModal('preorder')">Pre-Order Details ↗</span>
-  </aside>
-
   <!-- Modern Header with Authentic Brand Logo & Navigation -->
   <header class="site-header">
     <div class="nav-container">
       <!-- Mobile Hamburger Toggle Button -->
       <button class="mobile-menu-toggle" id="mobileMenuBtn" aria-label="Open Navigation Menu" onclick="toggleMobileNav()">
-        <span class="hamburger-bar"></span>
-        <span class="hamburger-bar"></span>
-        <span class="hamburger-bar"></span>
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
       </button>
 
       <a href="javascript:void(0)" onclick="navigateTo('shop')" class="brand-logo-link" title="Suzy Toronto Home">
@@ -1937,47 +2458,101 @@
       <nav class="desktop-nav" aria-label="Main Navigation">
         <ul class="nav-menu">
           
-          <!-- 1. Shop by Product Dropdown -->
+          <!-- 1. KUKANA SUB-BRAND DROPDOWN (Dedicated Sub-Brand) -->
           <li class="nav-item">
-            <a href="javascript:void(0)" class="nav-link">Shop by Product ▾</a>
+            <a href="javascript:void(0)" class="nav-link" style="color: var(--suzy-teal); font-weight: 800;">
+              <span>🌺 Keepers by Kukana</span>
+              <svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </a>
             <ul class="nav-dropdown">
-              <li><a href="javascript:void(0)" onclick="navigateTo('shop', 'calendars')" class="dropdown-link">📅 2027 Calendars & Planners</a></li>
-              <li><a href="javascript:void(0)" onclick="navigateTo('shop', 'art-prints')" class="dropdown-link">🖼️ 8x10 Matted Art Prints</a></li>
-              <li><a href="javascript:void(0)" onclick="navigateTo('shop', 'buggy-buddies')" class="dropdown-link">🛒 Buggy Buddies Keychains</a></li>
-              <li><a href="javascript:void(0)" onclick="navigateTo('shop', 'drinkware')" class="dropdown-link">☕ Stainless Tumblers & Coasters</a></li>
-              <li><a href="javascript:void(0)" onclick="navigateTo('shop', 'journals')" class="dropdown-link">📓 Notebooks & Journals (+NameDrop)</a></li>
-              <li><a href="javascript:void(0)" onclick="navigateTo('shop', 'stationery')" class="dropdown-link">📝 Post-It Sticky Notes & Memo Pads</a></li>
-              <li><a href="javascript:void(0)" onclick="navigateTo('shop', 'bookmarks')" class="dropdown-link">📑 Bookmarks & Bag Tags</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterBrand('kukana')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> <strong>All Keepers by Kukana (148 Items)</strong></a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:cards')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#mail-default"></use></svg> Kukana Greeting Cards (47)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:prints')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#photo-image-default"></use></svg> Kukana 5x7 Art Prints &amp; Easels (39)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:snack-mats')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#coffee-cup-01"></use></svg> Kukana Snack Mats &amp; Mouse Pads (26)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:coasters')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#circle-check"></use></svg> Kukana Drink Coasters (13)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:notecards')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#pencil-edit"></use></svg> Kukana Blank Note Cards (15)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:memopads')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#file02-default"></use></svg> Kukana Memo Pads w/ Magnet (8)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:uplifting')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> Encouraging &amp; Uplifting Words (31)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:gifts')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#gift-default"></use></svg> Kukana Family &amp; Friends Gifts (50+)</a></li>
             </ul>
           </li>
 
-          <!-- 2. Shop by Theme Dropdown -->
+          <!-- 2. Shop by Product Dropdown (Complete Original Taxonomy) -->
           <li class="nav-item">
-            <a href="javascript:void(0)" class="nav-link">Shop by Theme ▾</a>
-            <ul class="nav-dropdown">
-              <li><a href="javascript:void(0)" onclick="navigateToTheme('wild-women')" class="dropdown-link">💃 Wild Women & Goddesses</a></li>
-              <li><a href="javascript:void(0)" onclick="navigateToTheme('sisterhood')" class="dropdown-link">👭 Kindred Spirits & Sisterhood</a></li>
-              <li><a href="javascript:void(0)" onclick="navigateToTheme('faith')" class="dropdown-link">✝️ Faith & Inspiration</a></li>
-              <li><a href="javascript:void(0)" onclick="navigateToTheme('office-humor')" class="dropdown-link">🏢 Work & Daily Humor</a></li>
-              <li><a href="javascript:void(0)" onclick="navigateToTheme('gifts-under-10')" class="dropdown-link">🎁 Stocking Stuffers Under $10</a></li>
+            <a href="javascript:void(0)" class="nav-link">Shop by Product <svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg></a>
+            <ul class="nav-dropdown" style="max-height: 480px; overflow-y: auto;">
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Calendars & Planners')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#calendar-default"></use></svg> 2027 Calendars &amp; Planners (Pre-Orders)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Art Prints')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#photo-image-default"></use></svg> Matted Art Prints &amp; Easels (248)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Greeting Cards')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#mail-default"></use></svg> Greeting Cards (213)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Coasters')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#coffee-cup-01"></use></svg> Drink Coasters &amp; Car Coasters (157)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Mouse Pads')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#computer-desktop"></use></svg> Mouse Pads &amp; Mats (93)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Key Chains')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#shopping-cart"></use></svg> Key Chains &amp; Buggy Buddies (97)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Magnets')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> Acrylic Magnets (87)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Apparel')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> Apparel &amp; Limited Edition Tees (69)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Luggage Tags')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#package-01"></use></svg> Luggage Tags &amp; Bag Tags (67)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Note Cards')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#file02-default"></use></svg> Blank Note Cards &amp; Sets (64)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Bookmarks')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#bookmark-default"></use></svg> Laminated Bookmarks (46)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Memo Pads')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#pencil-edit"></use></svg> Memo Pads &amp; Sticky Notes (47)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Drawstring Backpacks')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#purse-bag"></use></svg> Backpacks &amp; Canvas Totes (28)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Drinkware')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#coffee-cup-01"></use></svg> Stainless Can Cooler Tumblers (19)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Journals & Notebooks')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#file02-default"></use></svg> Notebooks &amp; Journals (+NameDrop)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Canvas Wall Art')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#photo-image-default"></use></svg> 32"x32" Canvas Wall Art (12)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Recipe Cards')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#bookmark-default"></use></svg> Recipe Cards 18-Pack (12)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Books')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#bookmark-default"></use></svg> Books by Suzy Toronto (10)</a></li>
             </ul>
           </li>
 
-          <!-- 3. FULL-PAGE ABOUT & FAMILY STORY -->
+          <!-- 3. Shop by Theme / Collection Dropdown -->
+          <li class="nav-item">
+            <a href="javascript:void(0)" class="nav-link">Shop Collections <svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg></a>
+            <ul class="nav-dropdown" style="max-height: 480px; overflow-y: auto;">
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:quilt')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> Quilt &amp; Fabric Collection (79)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:tingleboots')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> TingleBoots Country Collection (77)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:mermaids')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> Mermaids &amp; Divas of the Deep (51)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:christmas')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#gift-default"></use></svg> Christmas &amp; Holiday Collection (37)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:american')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> PROUD to be an AMERICAN (23)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:goddesses')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#user-love-heart"></use></svg> Gathering of the Goddesses (22)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:chocolate')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#coffee-cup-01"></use></svg> Chocolate Lovers Collection (21)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:pickleball')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#circle-check"></use></svg> Pickleball Passion Collection (14)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:pink-ribbon')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#heart"></use></svg> Pink Ribbon Sisterhood (13)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:pets')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#heart"></use></svg> Pet Lovers (Cats &amp; Dogs) (24)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:irish')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> Irish / Celtic Heritage (16)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:birthday')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#gift-default"></use></svg> Birthday of the Month (14)</a></li>
+            </ul>
+          </li>
+
+          <!-- 4. Shop by Recipient Dropdown -->
+          <li class="nav-item">
+            <a href="javascript:void(0)" class="nav-link">Gifts by Recipient <svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg></a>
+            <ul class="nav-dropdown">
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:friend')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#user-love-heart"></use></svg> Best Girlfriends &amp; Friends (59)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:mother')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#heart"></use></svg> Mother / Mom Gifts (28)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:daughter')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> Daughter Gifts (26)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:sister')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#user-love-heart"></use></svg> Sister Gifts (13)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:father')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> Father / Dad Gifts (14)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:son')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> Son Gifts (11)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:grandchildren')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#gift-default"></use></svg> Grandchildren &amp; Granddaughter (13)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:husband')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#building-apartment-two"></use></svg> Husband &amp; Mighty Men (11)</a></li>
+              <li><a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:family')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#users"></use></svg> Extended Family (12)</a></li>
+            </ul>
+          </li>
+
+          <!-- 5. FULL-PAGE ABOUT & FAMILY STORY -->
           <li class="nav-item">
             <a href="javascript:void(0)" id="nav-about-link" onclick="navigateTo('about')" class="nav-link highlight">
-              <span>💖 Our Family Story</span>
+              <svg class="nav-story-heart" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
+              <span>Our Story</span>
             </a>
           </li>
 
-          <!-- 4. Help & Pre-Order FAQ Dropdown -->
+          <!-- 6. Help & Pre-Order FAQ Dropdown -->
           <li class="nav-item">
-            <a href="javascript:void(0)" class="nav-link">Help & FAQ ▾</a>
+            <a href="javascript:void(0)" class="nav-link">Help &amp; FAQ <svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg></a>
             <ul class="nav-dropdown">
-              <li><a href="javascript:void(0)" onclick="openHelpModal('preorder')" class="dropdown-link">🚚 2027 Calendar Pre-Order & Split Shipping</a></li>
-              <li><a href="javascript:void(0)" onclick="openHelpModal('tracking')" class="dropdown-link">📦 Track My Order Status</a></li>
-              <li><a href="javascript:void(0)" onclick="openHelpModal('returns')" class="dropdown-link">🔄 Easy Returns & Exchanges</a></li>
-              <li><a href="javascript:void(0)" onclick="openHelpModal('contact')" class="dropdown-link">💬 Contact Customer Care</a></li>
+              <li><a href="javascript:void(0)" onclick="openHelpModal('preorder')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#truck-default"></use></svg> 2027 Calendar Pre-Order & Split Shipping</a></li>
+              <li><a href="javascript:void(0)" onclick="openHelpModal('tracking')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#package-01"></use></svg> Track My Order Status</a></li>
+              <li><a href="javascript:void(0)" onclick="openHelpModal('returns')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#refresh"></use></svg> Easy Returns & Exchanges</a></li>
+              <li><a href="javascript:void(0)" onclick="openHelpModal('contact')" class="dropdown-link"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#chat-default"></use></svg> Contact Customer Care</a></li>
             </ul>
           </li>
 
@@ -1987,15 +2562,21 @@
       <!-- Right Search & Cart Actions -->
       <div class="nav-actions">
         <button class="mobile-search-toggle" aria-label="Toggle Search" onclick="toggleMobileSearch()">
-          🔍
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
         </button>
         <div class="nav-search-box">
-          <span class="nav-search-icon">🔍</span>
-          <input type="text" id="site-search" class="nav-search-input" placeholder="Search gifts..." oninput="handleSearch(this.value); syncMobileSearch(this.value)">
+          <span class="nav-search-icon">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          </span>
+          <input type="text" id="site-search" class="nav-search-input" placeholder="Search gifts..." aria-label="Search gifts">
         </div>
         <button class="nav-cart-btn" onclick="openCart()" aria-label="Shopping Cart">
-          <span class="cart-btn-label">🛒 Cart</span>
-          <span class="cart-btn-icon-only">🛒</span>
+          <svg class="cart-btn-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="9" cy="21" r="1"></circle>
+            <circle cx="20" cy="21" r="1"></circle>
+            <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+          </svg>
+          <span class="cart-btn-label">Cart</span>
           <span id="cart-badge-count" class="cart-count-badge">0</span>
         </button>
       </div>
@@ -2004,9 +2585,13 @@
     <!-- Mobile Expandable Search Bar -->
     <div class="mobile-search-bar" id="mobileSearchBar">
       <div class="mobile-search-inner">
-        <span class="nav-search-icon">🔍</span>
-        <input type="text" id="mobile-site-search" class="mobile-search-input" placeholder="Search gifts, planners, tumblers..." oninput="handleSearch(this.value); syncDesktopSearch(this.value)">
-        <button class="mobile-search-close" onclick="toggleMobileSearch()" aria-label="Close Search">✕</button>
+        <span class="nav-search-icon">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        </span>
+        <input type="text" id="mobile-site-search" class="mobile-search-input" placeholder="Search gifts, planners, tumblers..." aria-label="Search gifts mobile">
+        <button class="mobile-search-close" onclick="toggleMobileSearch()" aria-label="Close Search">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
       </div>
     </div>
   </header>
@@ -2016,59 +2601,105 @@
   <aside class="mobile-nav-drawer" id="mobileNavDrawer" aria-label="Mobile Navigation">
     <div class="mobile-drawer-header">
       <img src="https://suzytoronto.com/wp-content/uploads/2020/02/cropped-STS_LOGO-website-header2.jpg" alt="Suzy Toronto Logo" class="mobile-drawer-logo">
-      <button class="mobile-drawer-close" onclick="closeMobileNav()" aria-label="Close Navigation">✕</button>
+      <button class="mobile-drawer-close" onclick="closeMobileNav()" aria-label="Close Navigation"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#multiple-cross-cancel-circle"></use></svg></button>
     </div>
     <div class="mobile-drawer-body">
       
       <!-- Quick Family Story Highlight Link -->
       <a href="javascript:void(0)" onclick="navigateTo('about'); closeMobileNav();" class="mobile-nav-hero-link">
-        <span>💖 Our Family Story & Team</span>
-        <span class="mobile-arrow">→</span>
+        <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#heart"></use></svg> Our Family Story & Team</span>
+        <span class="mobile-arrow"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#arrow-right"></use></svg></span>
       </a>
 
-      <!-- Accordion: Shop by Product -->
-      <div class="mobile-accordion-item open">
-        <button class="mobile-accordion-header" onclick="toggleAccordion(this)">
-          <span>🛍️ Shop by Product</span>
-          <span class="acc-chevron">▾</span>
+      <!-- Accordion 1: Keepers by Kukana (Dedicated Sub-Brand) -->
+      <div class="mobile-accordion-item open" style="border-left: 3px solid var(--suzy-teal);">
+        <button class="mobile-accordion-header" onclick="toggleAccordion(this)" style="color: var(--suzy-teal); font-weight: 800;">
+          <span>🌺 Keepers by Kukana</span>
+          <span class="acc-chevron"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#arrow-down"></use></svg></span>
         </button>
         <div class="mobile-accordion-content">
-          <a href="javascript:void(0)" onclick="navigateTo('shop', 'calendars'); closeMobileNav();">📅 2027 Calendars & Planners</a>
-          <a href="javascript:void(0)" onclick="navigateTo('shop', 'art-prints'); closeMobileNav();">🖼️ 8x10 Matted Art Prints</a>
-          <a href="javascript:void(0)" onclick="navigateTo('shop', 'buggy-buddies'); closeMobileNav();">🛒 Buggy Buddies Keychains</a>
-          <a href="javascript:void(0)" onclick="navigateTo('shop', 'drinkware'); closeMobileNav();">☕ Stainless Tumblers & Coasters</a>
-          <a href="javascript:void(0)" onclick="navigateTo('shop', 'journals'); closeMobileNav();">📓 Notebooks & Journals (+NameDrop)</a>
-          <a href="javascript:void(0)" onclick="navigateTo('shop', 'stationery'); closeMobileNav();">📝 Post-It Sticky Notes & Memo Pads</a>
-          <a href="javascript:void(0)" onclick="navigateTo('shop', 'bookmarks'); closeMobileNav();">📑 Bookmarks & Bag Tags</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterBrand('kukana'); closeMobileNav();" style="font-weight: 700; color: var(--suzy-teal);"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> All Keepers by Kukana (148)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:cards'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#mail-default"></use></svg> Kukana Greeting Cards (47)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:prints'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#photo-image-default"></use></svg> Kukana 5x7 Art Prints (39)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:snack-mats'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#coffee-cup-01"></use></svg> Kukana Snack Mats &amp; Mats (26)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:coasters'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#circle-check"></use></svg> Kukana Drink Coasters (13)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:notecards'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#pencil-edit"></use></svg> Kukana Blank Note Cards (15)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:memopads'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#file02-default"></use></svg> Kukana Memo Pads (8)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('kukana:uplifting'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> Uplifting Sentiments (31)</a>
         </div>
       </div>
 
-      <!-- Accordion: Shop by Theme -->
-      <div class="mobile-accordion-item open">
+      <!-- Accordion 2: Shop by Product -->
+      <div class="mobile-accordion-item">
         <button class="mobile-accordion-header" onclick="toggleAccordion(this)">
-          <span>💃 Shop by Theme</span>
-          <span class="acc-chevron">▾</span>
+          <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#purse-bag"></use></svg> Shop by Product</span>
+          <span class="acc-chevron"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#arrow-down"></use></svg></span>
         </button>
         <div class="mobile-accordion-content">
-          <a href="javascript:void(0)" onclick="navigateToTheme('wild-women'); closeMobileNav();">💃 Wild Women & Goddesses</a>
-          <a href="javascript:void(0)" onclick="navigateToTheme('sisterhood'); closeMobileNav();">👭 Kindred Spirits & Sisterhood</a>
-          <a href="javascript:void(0)" onclick="navigateToTheme('faith'); closeMobileNav();">✝️ Faith & Inspiration</a>
-          <a href="javascript:void(0)" onclick="navigateToTheme('office-humor'); closeMobileNav();">🏢 Work & Daily Humor</a>
-          <a href="javascript:void(0)" onclick="navigateToTheme('gifts-under-10'); closeMobileNav();">🎁 Stocking Stuffers Under $10</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Calendars & Planners'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#calendar-default"></use></svg> 2027 Calendars &amp; Planners</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Art Prints'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#photo-image-default"></use></svg> Matted Art Prints &amp; Easels</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Greeting Cards'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#mail-default"></use></svg> Greeting Cards (213)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Coasters'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#coffee-cup-01"></use></svg> Drink &amp; Car Coasters (157)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Mouse Pads'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#computer-desktop"></use></svg> Mouse Pads &amp; Mats (93)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Key Chains'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#shopping-cart"></use></svg> Key Chains &amp; Buggy Buddies</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Magnets'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> Acrylic Magnets (87)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Apparel'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> Apparel &amp; T-Shirts (69)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Luggage Tags'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#package-01"></use></svg> Luggage &amp; Bag Tags (67)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Bookmarks'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#bookmark-default"></use></svg> Laminated Bookmarks (46)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Memo Pads'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#pencil-edit"></use></svg> Memo Pads &amp; Sticky Notes (47)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Drinkware'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#coffee-cup-01"></use></svg> Stainless Tumblers &amp; Coolers</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('Journals & Notebooks'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#file02-default"></use></svg> Journals &amp; Notebooks (+NameDrop)</a>
+        </div>
+      </div>
+
+      <!-- Accordion 3: Shop by Collection -->
+      <div class="mobile-accordion-item">
+        <button class="mobile-accordion-header" onclick="toggleAccordion(this)">
+          <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> Shop Collections</span>
+          <span class="acc-chevron"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#arrow-down"></use></svg></span>
+        </button>
+        <div class="mobile-accordion-content">
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:quilt'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> Quilt &amp; Fabric Collection (79)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:tingleboots'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> TingleBoots Country (77)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:mermaids'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> Mermaids &amp; Divas of the Deep (51)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:christmas'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#gift-default"></use></svg> Christmas &amp; Holiday (37)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:american'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> PROUD to be an AMERICAN (23)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:goddesses'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#user-love-heart"></use></svg> Gathering of the Goddesses (22)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:chocolate'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#coffee-cup-01"></use></svg> Chocolate Lovers Collection (21)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:pickleball'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#circle-check"></use></svg> Pickleball Passion (14)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:pink-ribbon'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#heart"></use></svg> Pink Ribbon Sisterhood (13)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('col:pets'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#heart"></use></svg> Pets (Cats &amp; Dogs) (24)</a>
+        </div>
+      </div>
+
+      <!-- Accordion 4: Gifts by Recipient -->
+      <div class="mobile-accordion-item">
+        <button class="mobile-accordion-header" onclick="toggleAccordion(this)">
+          <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#user-love-heart"></use></svg> Gifts by Recipient</span>
+          <span class="acc-chevron"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#arrow-down"></use></svg></span>
+        </button>
+        <div class="mobile-accordion-content">
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:friend'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#user-love-heart"></use></svg> Friend / Best Girlfriends (59)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:mother'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#heart"></use></svg> Mother / Mom Gifts (28)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:daughter'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg> Daughter Gifts (26)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:sister'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#user-love-heart"></use></svg> Sister Gifts (13)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:father'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> Father / Dad Gifts (14)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:son'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#star"></use></svg> Son Gifts (11)</a>
+          <a href="javascript:void(0)" onclick="ShopifyStore.filterCategory('rec:grandchildren'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#gift-default"></use></svg> Grandchildren (13)</a>
         </div>
       </div>
 
       <!-- Accordion: Customer Care & Help -->
       <div class="mobile-accordion-item">
         <button class="mobile-accordion-header" onclick="toggleAccordion(this)">
-          <span>❓ Customer Care & FAQ</span>
-          <span class="acc-chevron">▾</span>
+          <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#question-mark-circle"></use></svg> Customer Care & FAQ</span>
+          <span class="acc-chevron"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#arrow-down"></use></svg></span>
         </button>
         <div class="mobile-accordion-content">
-          <a href="javascript:void(0)" onclick="openHelpModal('preorder'); closeMobileNav();">🚚 2027 Calendar Pre-Order & Split Shipping</a>
-          <a href="javascript:void(0)" onclick="openHelpModal('tracking'); closeMobileNav();">📦 Track My Order Status</a>
-          <a href="javascript:void(0)" onclick="openHelpModal('returns'); closeMobileNav();">🔄 Easy Returns & Exchanges</a>
-          <a href="javascript:void(0)" onclick="openHelpModal('contact'); closeMobileNav();">💬 Contact Customer Care</a>
+          <a href="javascript:void(0)" onclick="openHelpModal('preorder'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#truck-default"></use></svg> 2027 Calendar Pre-Order & Split Shipping</a>
+          <a href="javascript:void(0)" onclick="openHelpModal('tracking'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#package-01"></use></svg> Track My Order Status</a>
+          <a href="javascript:void(0)" onclick="openHelpModal('returns'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#refresh"></use></svg> Easy Returns & Exchanges</a>
+          <a href="javascript:void(0)" onclick="openHelpModal('contact'); closeMobileNav();"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#chat-default"></use></svg> Contact Customer Care</a>
         </div>
       </div>
 
@@ -2077,7 +2708,7 @@
           <strong style="color: var(--suzy-purple); font-size: 15px; display:block; margin-bottom: 4px;">Need Personal Assistance?</strong>
           <p>Family-owned & operated in Mt. Dora, FL</p>
           <button class="btn-primary" style="margin-top: 10px; font-size: 15px; min-height: 44px;" onclick="openHelpModal('contact'); closeMobileNav();">
-            💬 Call or Message Us
+            <svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#chat-default"></use></svg> Call or Message Us
           </button>
         </div>
       </div>
@@ -2090,36 +2721,171 @@
        =================================================== -->
   <section id="view-shop" class="page-view active">
     
-    <!-- Hero Section -->
-    <div class="shop-hero">
-      <h1>Inspiring Wild & Wacky Women Everywhere</h1>
-      <p>Hand-crafted art, journals, calendars, and gifts designed to bring daily joy, laughter, and encouragement to your soul.</p>
-      <div class="hero-badges">
-        <span class="hero-badge" onclick="navigateTo('about')">👨‍👩‍👧‍👦 100% Family-Owned Studio</span>
-        <span class="hero-badge" onclick="openHelpModal('preorder')">📦 Automatic Split Shipping Active</span>
-        <span class="hero-badge" onclick="openCart()">⚡ 1-Tap Shop Pay & Apple Pay</span>
+    <!-- Mixed-content hero carousel -->
+    <section class="hero-carousel" aria-label="Featured collections and news" aria-roledescription="carousel">
+      <div class="hero-slides" id="hero-slides" aria-live="off">
+        <div class="hero-slide shop-hero" role="group" aria-roledescription="slide" aria-label="1 of 6: Welcome">
+          <div class="hero-copy">
+            <h1>Inspiring Wild &amp; Wacky Women Everywhere</h1>
+            <p>Hand-crafted art, journals, calendars, and gifts designed to bring daily joy, laughter, and encouragement to your soul.</p>
+            <div class="hero-badges">
+              <button class="hero-badge" onclick="navigateTo('about')"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#user-love-heart"></use></svg> 100% Family-Owned Studio</button>
+              <button class="hero-badge" onclick="openHelpModal('preorder')"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#package-01"></use></svg> Automatic Split Shipping Active</button>
+              <button class="hero-badge" onclick="openCart()"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#lightning-thunder-electric-on"></use></svg> 1-Tap Shop Pay &amp; Apple Pay</button>
+            </div>
+          </div>
+        </div>
+        <div class="hero-slide hero-preorder" role="group" aria-roledescription="slide" aria-label="2 of 6: 2027 planner pre-orders" hidden>
+          <div class="hero-copy">
+            <h2>2027 Planners Now Available for Pre&#8209;Order!</h2>
+            <p>In-stock items ship immediately with automatic Split Shipping at checkout.</p>
+            <button class="hero-preorder-button" onclick="openHelpModal('preorder')">Pre-Order Details <span aria-hidden="true"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#external-link-square"></use></svg></span></button>
+          </div>
+        </div>
+        <div class="hero-slide hero-image-slide" role="group" aria-roledescription="slide" aria-label="3 of 6: Buggy Buddies" hidden>
+          <a href="#catalog" onclick="filterCategory('buggy-buddies', this)"><img src="assets/BB-Header-768x392.png" width="768" height="392" alt="Buggy Buddy keychains: double-sided designs that clip on and are easy to insert and remove."></a>
+        </div>
+        <div class="hero-slide hero-image-slide" role="group" aria-roledescription="slide" aria-label="4 of 6: Calendars and planners" hidden>
+          <a href="#catalog" onclick="filterCategory('calendars', this)"><img src="assets/CAL-PLN27_OPT-header-1024x341.jpg" width="1024" height="341" alt="2027 Calendars and Planners — glitter and gem options available."></a>
+        </div>
+        <div class="hero-slide hero-image-slide" role="group" aria-roledescription="slide" aria-label="5 of 6: Magnets" hidden>
+          <img src="assets/MAG_BANNER_OPT-1024x341.jpg" width="1024" height="341" alt="Suzy Toronto magnets featuring colorful artwork and uplifting messages.">
+        </div>
+        <div class="hero-slide hero-image-slide" role="group" aria-roledescription="slide" aria-label="6 of 6: Post-it Notes" hidden>
+          <a href="#catalog" onclick="filterCategory('stationery', this)"><img src="assets/POST_BANNER_OPT-1024x341.jpg" width="1024" height="341" alt="Post-it Notes — 3M certified sticky notes with Suzy Toronto artwork."></a>
+        </div>
       </div>
-    </div>
+      <div class="hero-carousel-controls">
+        <button class="hero-control" id="hero-prev" aria-label="Previous slide" aria-controls="hero-slides"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#arrow-left"></use></svg></button>
+        <div class="hero-slide-dots" aria-label="Choose a slide">
+          <button class="hero-dot" aria-label="Slide 1: Welcome" aria-current="true"></button>
+          <button class="hero-dot" aria-label="Slide 2: Planner pre-orders"></button>
+          <button class="hero-dot" aria-label="Slide 3: Buggy Buddies"></button>
+          <button class="hero-dot" aria-label="Slide 4: Calendars and planners"></button>
+          <button class="hero-dot" aria-label="Slide 5: Magnets"></button>
+          <button class="hero-dot" aria-label="Slide 6: Post-it Notes"></button>
+        </div>
+        <button class="hero-control" id="hero-next" aria-label="Next slide" aria-controls="hero-slides"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#arrow-right"></use></svg></button>
+        <button class="hero-control hero-pause" id="hero-pause" aria-label="Pause carousel">Pause</button>
+        <span class="hero-slide-status" role="status" aria-live="polite"></span>
+      </div>
+    </section>
 
     <!-- Main Product Showcase -->
     <main id="catalog" class="content-container">
       <div class="section-header">
         <div>
-          <h2 class="section-title">Featured Products</h2>
-          <span id="results-counter" class="results-counter">Showing all 12 products</span>
+          <h2 class="section-title">Shop Collections &amp; Gifts</h2>
+          <span id="results-counter" class="results-counter" role="status" aria-live="polite" aria-atomic="true">Connecting live to Shopify catalog...</span>
         </div>
       </div>
 
-      <!-- Category Filter Chips -->
+      <!-- Brand / Artist Switcher Bar -->
+      <div class="brand-switcher-wrapper">
+        <span class="brand-switcher-label">
+          <svg class="pika-icon" viewBox="0 0 24 24" style="width:16px;height:16px;color:var(--suzy-magenta);"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg>
+          Explore by Brand / Artist:
+        </span>
+        <div class="brand-switcher-pills">
+          <button class="brand-pill active" id="pill-brand-all" onclick="ShopifyStore.filterBrand('all')">
+            <span>✨ All Collections (1,458+)</span>
+          </button>
+          <button class="brand-pill" id="pill-brand-suzy" onclick="ShopifyStore.filterBrand('suzy')">
+            <span>💃 Suzy Toronto / Wacky Women (1,310+)</span>
+          </button>
+          <button class="brand-pill kukana-pill" id="pill-brand-kukana" onclick="ShopifyStore.filterBrand('kukana')">
+            <span>🌺 Keepers by Kukana (148)</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Dedicated Kukana Sub-Brand Spotlight Banner (Dynamic) -->
+      <div id="kukana-spotlight" class="kukana-spotlight-card" style="display: none;">
+        <div class="kukana-spotlight-badge">
+          <svg class="pika-icon" viewBox="0 0 24 24"><use href="assets/icons/pika-duo-solid.svg#sparkle-ai-01"></use></svg>
+          Sub-Brand Spotlight
+        </div>
+        <h3 class="kukana-spotlight-title">Keepers by Kukana</h3>
+        <p class="kukana-spotlight-text">
+          &ldquo;My name is Kukanakamelani&hellip; Kukana for short. I am an artist and writer. It&rsquo;s who and what I am. My world is filled with color, tropical passion, and a whole lot of paint. When I&rsquo;m not creating, I&rsquo;m dancing the hula, creating Hawaiian feather work, or writing heartfelt words to inspire everyday joy.&rdquo;
+        </p>
+        <div class="kukana-spotlight-tags">
+          <span class="kukana-spotlight-tag-pill" onclick="ShopifyStore.filterCategory('kukana:cards')">💌 Greeting Cards (47)</span>
+          <span class="kukana-spotlight-tag-pill" onclick="ShopifyStore.filterCategory('kukana:prints')">🖼️ 5x7 Art Prints (39)</span>
+          <span class="kukana-spotlight-tag-pill" onclick="ShopifyStore.filterCategory('kukana:snack-mats')">🍽️ Snack Mats (26)</span>
+          <span class="kukana-spotlight-tag-pill" onclick="ShopifyStore.filterCategory('kukana:coasters')">🍹 Coasters (13)</span>
+          <span class="kukana-spotlight-tag-pill" onclick="ShopifyStore.filterCategory('kukana:uplifting')">✨ Uplifting Sentiments (31)</span>
+        </div>
+      </div>
+
+      <!-- Comprehensive Category Filter with Full Original Categories -->
       <div class="category-filter">
-        <button class="filter-chip active" data-cat="all" onclick="filterCategory('all', this)">✨ All Products (12)</button>
-        <button class="filter-chip" data-cat="calendars" onclick="filterCategory('calendars', this)">📅 Calendars & Planners</button>
-        <button class="filter-chip" data-cat="journals" onclick="filterCategory('journals', this)">📓 Journals (+NameDrop)</button>
-        <button class="filter-chip" data-cat="buggy-buddies" onclick="filterCategory('buggy-buddies', this)">🛒 Buggy Buddies</button>
-        <button class="filter-chip" data-cat="drinkware" onclick="filterCategory('drinkware', this)">☕ Can Coolers & Coasters</button>
-        <button class="filter-chip" data-cat="art-prints" onclick="filterCategory('art-prints', this)">🖼️ Matted Art Prints</button>
-        <button class="filter-chip" data-cat="stationery" onclick="filterCategory('stationery', this)">📝 Sticky Notes & Memos</button>
-        <button class="filter-chip" data-cat="bookmarks" onclick="filterCategory('bookmarks', this)">📑 Bookmarks & Tags</button>
+        <label for="category-select">Filter by Category or Collection:</label>
+        <select id="category-select" class="category-select" onchange="ShopifyStore.filterCategory(this.value)" aria-controls="product-grid">
+          <optgroup label="── SUB-BRANDS ──">
+            <option value="all" selected>All Collections &amp; Brands (1,458 Live Items)</option>
+            <option value="brand:suzy">Suzy Toronto / Wonderful Wacky Women (1,310 Items)</option>
+            <option value="brand:kukana">🌺 Keepers by Kukana (148 Items)</option>
+          </optgroup>
+          <optgroup label="── SHOP BY PRODUCT TYPE ──">
+            <option value="Calendars &amp; Planners">2027 Calendars &amp; Planners (Pre-Orders)</option>
+            <option value="Art Prints">Matted Art Prints &amp; Easels (248 Items)</option>
+            <option value="Greeting Cards">Greeting Cards (213 Items)</option>
+            <option value="Coasters">Drink Coasters &amp; Car Cup Coasters (157 Items)</option>
+            <option value="Mouse Pads">Mouse Pads &amp; Desk Mats (93 Items)</option>
+            <option value="Key Chains">Key Chains &amp; Buggy Buddies (97 Items)</option>
+            <option value="Magnets">Acrylic Magnets (87 Items)</option>
+            <option value="Apparel">Apparel &amp; Limited Edition T-Shirts (69 Items)</option>
+            <option value="Luggage Tags">Luggage Tags &amp; Bag Tags (67 Items)</option>
+            <option value="Note Cards">Blank Note Cards &amp; Boxed Sets (64 Items)</option>
+            <option value="Bookmarks">Laminated Bookmarks (46 Items)</option>
+            <option value="Memo Pads">Memo Pads w/ Magnet &amp; Pocket Pads (45 Items)</option>
+            <option value="Drawstring Backpacks">Drawstring Backpacks &amp; Totes (28 Items)</option>
+            <option value="Drinkware">Stainless Can Coolers &amp; Tumblers (19 Items)</option>
+            <option value="Journals &amp; Notebooks">Journals &amp; Wire-Bound Notebooks (16 Items)</option>
+            <option value="Canvas Wall Art">Canvas Wall Art 32"x32" Giclée (12 Items)</option>
+            <option value="Recipe Cards">Recipe Cards 18-Pack (12 Items)</option>
+            <option value="Stationery &amp; Post-It Notes">Sticky Tingles (Post-It Notes) &amp; Stickers (18 Items)</option>
+            <option value="Books">Inspirational Books by Suzy (10 Items)</option>
+          </optgroup>
+          <optgroup label="── THEMED COLLECTIONS ──">
+            <option value="col:quilt">Quilt / Fabric Collection (79 Items)</option>
+            <option value="col:tingleboots">TingleBoots Country Collection (77 Items)</option>
+            <option value="col:mermaids">Mermaids &amp; Divas of the Deep (51 Items)</option>
+            <option value="col:christmas">Christmas &amp; Holiday Collection (37 Items)</option>
+            <option value="col:american">PROUD to be an AMERICAN (23 Items)</option>
+            <option value="col:goddesses">Gathering of the Goddesses (22 Items)</option>
+            <option value="col:chocolate">Chocolate Lovers Collection (21 Items)</option>
+            <option value="col:pickleball">Pickleball Passion Collection (14 Items)</option>
+            <option value="col:pink-ribbon">Pink Ribbon Sisterhood (13 Items)</option>
+            <option value="col:pets">Pet Lovers (Cats, Dogs &amp; Horses) (24 Items)</option>
+            <option value="col:irish">Irish / Celtic Heritage (16 Items)</option>
+            <option value="col:birthday">Birthday of the Month Series (14 Items)</option>
+            <option value="col:valentines">Valentine's Day Gifts</option>
+          </optgroup>
+          <optgroup label="── GIFTS BY RECIPIENT ──">
+            <option value="rec:friend">Friend / Best Girlfriends (59 Items)</option>
+            <option value="rec:mother">Mother / Mom Gifts (28 Items)</option>
+            <option value="rec:daughter">Daughter Gifts (26 Items)</option>
+            <option value="rec:sister">Sister Gifts (13 Items)</option>
+            <option value="rec:father">Father / Dad Gifts (14 Items)</option>
+            <option value="rec:son">Son Gifts (11 Items)</option>
+            <option value="rec:grandchildren">Grandchildren &amp; Granddaughters (13 Items)</option>
+            <option value="rec:husband">Husband &amp; Mighty Men (11 Items)</option>
+            <option value="rec:family">Extended Family (12 Items)</option>
+          </optgroup>
+          <optgroup label="── 🌺 KEEPERS BY KUKANA ──">
+            <option value="kukana:all">All Keepers by Kukana (148 Items)</option>
+            <option value="kukana:cards">Kukana Greeting Cards (47 Items)</option>
+            <option value="kukana:prints">Kukana 5x7 Art Prints (39 Items)</option>
+            <option value="kukana:snack-mats">Kukana Snack Mats &amp; Mouse Pads (26 Items)</option>
+            <option value="kukana:coasters">Kukana Drink Coasters (13 Items)</option>
+            <option value="kukana:notecards">Kukana Note Cards (15 Items)</option>
+            <option value="kukana:memopads">Kukana Memo Pads w/ Magnet (8 Items)</option>
+            <option value="kukana:uplifting">Kukana Encouraging &amp; Uplifting (31 Items)</option>
+            <option value="kukana:gifts">Kukana Gifts for Family &amp; Friends (50+ Items)</option>
+          </optgroup>
+        </select>
       </div>
 
       <!-- 12 Representative Products Grid -->
@@ -2393,7 +3159,7 @@
     
     <!-- About Hero -->
     <div class="about-hero">
-      <div class="about-hero-tag">💖 Independent • Family-Owned • Hand-Crafted</div>
+      <div class="about-hero-tag"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#heart"></use></svg> Independent • Family-Owned • Hand-Crafted</div>
       <h1>Our Wild, Wacky, Wonderful Family Story</h1>
       <p>Meet the real people, kindred spirits, and family teamwork behind every uplifting story, illustration, and hug sent from our studio in New Smyrna Beach, Florida.</p>
     </div>
@@ -2444,7 +3210,7 @@
             Al is Suzy's rock and self-described "Beast of Burden" at craft festivals and art shows. While Suzy brings the wild creative tornado, Al provides the essential left-brain legal, logistical, and financial backbone that keeps the studio thriving. Without him, Suzy Toronto Studios simply wouldn't exist!
           </p>
           <div class="team-tagline">
-            <span>🛡️</span> The practical rock behind the wacky dreams
+            <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#shield-check"></use></svg></span> The practical rock behind the wacky dreams
           </div>
         </article>
 
@@ -2461,7 +3227,7 @@
             The youngest of five children, Chase is the wacky kid who started it all! As an innocent child, his question — <em>"Mommy, who is she that grew me in her tummy?"</em> — inspired the entire Wonderful Wacky Women line. Today, he's a computer genius and pilot who oversees business systems and tech.
           </p>
           <div class="team-tagline">
-            <span>✈️</span> The spark that ignited "Wonderful Wacky Women"
+            <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#airplane-default"></use></svg></span> The spark that ignited "Wonderful Wacky Women"
           </div>
         </article>
 
@@ -2478,7 +3244,7 @@
             Rob is literally the sticky, glittery glue stick holding the studio together. Serving as Art Director for over two decades, he translates Suzy's hurricane of creative sketches into finished cards, calendars, and books. He is family in every sense of the word.
           </p>
           <div class="team-tagline">
-            <span>🎨</span> The calm anchor of the creative studio
+            <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#paint-brush"></use></svg></span> The calm anchor of the creative studio
           </div>
         </article>
 
@@ -2495,7 +3261,7 @@
             Suzy's lifelong bestie who inspired famous pieces like <em>Kindred Spirits</em> and <em>Gathering of the Goddesses</em>. Together, Suzy and Launi have weathered life's greatest storms, proving that sisterhood and unconditional friendship are life's greatest blessings.
           </p>
           <div class="team-tagline">
-            <span>👭</span> The inspiration for sacred sisterhood
+            <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#user-love-heart"></use></svg></span> The inspiration for sacred sisterhood
           </div>
         </article>
 
@@ -2512,14 +3278,14 @@
             From assembling order boxes to testing product ideas, Suzy's sprawling family remains actively involved. Every purchase directly supports this multigenerational American family business and keeps the tradition of heartfelt, uplifting art alive.
           </p>
           <div class="team-tagline">
-            <span>🌱</span> Multigenerational love in every package
+            <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#heart"></use></svg></span> Multigenerational love in every package
           </div>
         </article>
 
         <!-- Member 6: Suzy's Hug Guarantee -->
         <article class="team-card" style="border-color: #10b981; background: #ecfdf5;">
           <div class="team-header">
-            <div style="width:80px; height:80px; border-radius:50%; background:#10b981; display:flex; align-items:center; justify-content:center; font-size:40px; color:#fff;">🤗</div>
+            <div style="width:80px; height:80px; border-radius:50%; background:#10b981; display:flex; align-items:center; justify-content:center; font-size:40px; color:#fff;"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#user-love-heart"></use></svg></div>
             <div>
               <h3 class="team-name" style="color: #065f46;">Suzy's Hug Guarantee</h3>
               <div class="team-role" style="color: #047857;">Our Personal Promise to You</div>
@@ -2529,7 +3295,7 @@
             When you purchase from us, you become part of our extended family. If your order doesn't feel like a giant, heartwarming hug, return it within 30 days for an unconditional refund or exchange. No hassle, ever.
           </p>
           <div class="team-tagline" style="color: #047857; border-top-color: #a7f3d0;">
-            <span>✅</span> 100% Satisfaction or your money back
+            <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#check-tick-circle"></use></svg></span> 100% Satisfaction or your money back
           </div>
         </article>
 
@@ -2540,8 +3306,8 @@
         <h2>Ready to Explore Suzy's Artwork?</h2>
         <p>Browse our official 2027 wall calendars, customizable journals, matted prints, and gifts under $10.</p>
         <button class="btn-cta-gold" onclick="navigateTo('shop')">
-          <span>🛍️ Shop Hand-Crafted Collections</span>
-          <span style="font-size: 20px;">➔</span>
+          <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#purse-bag"></use></svg> Shop Hand-Crafted Collections</span>
+          <span style="font-size: 20px;"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#arrow-right"></use></svg></span>
         </button>
       </div>
 
@@ -2555,7 +3321,7 @@
   <footer class="site-footer">
     <div class="footer-container">
       <div class="footer-brand">
-        <img src="https://suzytoronto.com/wp-content/uploads/2020/02/cropped-STS_LOGO-website-header2.jpg" alt="Suzy Toronto" style="height: 48px; margin-bottom: 12px;">
+        <img src="https://suzytoronto.com/wp-content/uploads/2020/02/cropped-STS_LOGO-website-header2.jpg" alt="Suzy Toronto" style="height: 96px; max-width: 100%; object-fit: contain; margin-bottom: 16px;">
         <p style="font-size: 15px; line-height: 1.6; color: var(--suzy-text-muted);">
           A family-owned business in New Smyrna Beach, Florida. Dedicated to inspiring women to embrace their wild, wacky uniqueness and live a life worth loving.
         </p>
@@ -2586,7 +3352,7 @@
           hugs@suzytoronto.com
         </p>
         <p style="font-size: 13px; color: var(--suzy-magenta); font-weight: 700;">
-          📞 1-800-444-SUZY
+          <svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#phone"></use></svg> 1-800-444-SUZY
         </p>
       </div>
     </div>
@@ -2600,30 +3366,39 @@
        MODALS & SLIDE-OVER DRAWERS
        =================================================== -->
   
-  <!-- Interactive Product Detail Modal -->
-  <div id="product-modal" class="modal-overlay">
-    <div class="modal-content">
-      <button class="modal-close" onclick="closeModal('product-modal')">&times;</button>
+  <!-- Interactive Product Detail Modal with Scroll Affordances -->
+  <div id="product-modal" class="modal-overlay" onclick="closeModalOnOverlay(event, 'product-modal')">
+    <div class="modal-content" id="product-modal-content">
+      <button class="modal-close" aria-label="Close dialog" onclick="closeModal('product-modal')"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#multiple-cross-cancel-circle"></use></svg></button>
       <div id="modal-body-content" class="modal-grid"></div>
+      <!-- Visible floating scroll cue when modal height exceeds screen -->
+      <div id="product-modal-scroll-cue" class="modal-scroll-cue" onclick="ShopifyStore.scrollModalDown('product-modal')">
+        <span>Scroll for details &amp; options</span>
+        <svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons/pika-duo-solid.svg#arrow-down"></use></svg>
+      </div>
     </div>
   </div>
 
-  <!-- Interactive Help & FAQ Modal -->
-  <div id="help-modal" class="modal-overlay">
-    <div class="modal-content" style="max-width: 720px;">
-      <button class="modal-close" onclick="closeModal('help-modal')">&times;</button>
+  <!-- Interactive Help & FAQ Modal with Scroll Affordance -->
+  <div id="help-modal" class="modal-overlay" onclick="closeModalOnOverlay(event, 'help-modal')">
+    <div class="modal-content" id="help-modal-content" style="max-width: 720px;">
+      <button class="modal-close" aria-label="Close dialog" onclick="closeModal('help-modal')"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#multiple-cross-cancel-circle"></use></svg></button>
       <div id="help-modal-body"></div>
+      <div id="help-modal-scroll-cue" class="modal-scroll-cue" onclick="ShopifyStore.scrollModalDown('help-modal')">
+        <span>Scroll for more details</span>
+        <svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons/pika-duo-solid.svg#arrow-down"></use></svg>
+      </div>
     </div>
   </div>
 
   <!-- Interactive Slide-Over Cart Drawer -->
   <div id="cart-drawer-overlay" class="cart-drawer-overlay" onclick="closeCart()"></div>
-  <aside id="cart-drawer" class="cart-drawer">
+  <aside id="cart-drawer" class="cart-drawer" inert>
     <div class="cart-drawer-header">
       <div class="cart-drawer-title">
-        <span>🛒 Your Shopping Cart</span>
+        <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#shopping-cart"></use></svg> Your Shopping Cart</span>
       </div>
-      <button class="cart-drawer-close" onclick="closeCart()">&times;</button>
+      <button class="cart-drawer-close" aria-label="Close cart" onclick="closeCart()"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#multiple-cross-cancel-circle"></use></svg></button>
     </div>
     
     <div id="cart-drawer-items" class="cart-drawer-body">
@@ -2632,26 +3407,29 @@
 
     <div class="cart-drawer-footer">
       <div id="cart-split-notice-box" style="display: none;" class="cart-split-alert">
-        <span>🚚</span>
+        <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#truck-default"></use></svg></span>
         <div><strong>Split Shipping Active:</strong> Pre-order 2027 calendars ship separately in Oct. In-stock items ship immediately!</div>
       </div>
       <div class="cart-subtotal-row">
         <span>Subtotal:</span>
         <span id="cart-subtotal-val" style="color: var(--suzy-magenta);">$0.00</span>
       </div>
-      <button class="btn-primary" onclick="checkoutDemo()" style="margin-bottom: 10px;">
+      <button class="btn-primary" onclick="ShopifyStore.checkout()" style="margin-bottom: 10px;">
         <span>Proceed to Checkout</span>
       </button>
       <div class="express-buttons">
-        <button class="express-btn btn-shoppay" onclick="checkoutDemo('Shop Pay')">Shop Pay</button>
-        <button class="express-btn btn-applepay" onclick="checkoutDemo('Apple Pay')">Apple Pay</button>
-        <button class="express-btn btn-paypal" onclick="checkoutDemo('PayPal')">PayPal</button>
+        <button class="express-btn btn-shoppay" onclick="ShopifyStore.checkout()">Shop Pay</button>
+        <button class="express-btn btn-applepay" onclick="ShopifyStore.checkout()">Apple Pay</button>
+        <button class="express-btn btn-paypal" onclick="ShopifyStore.checkout()">PayPal</button>
       </div>
     </div>
   </aside>
 
   <!-- Floating Toast Notifications -->
   <div id="toast-container" class="toast-container"></div>
+
+  <!-- Shopify Storefront API Integration (Live Store) -->
+  <script src="assets/shopify-storefront.js"></script>
 
   <script>
     // Product Database
@@ -2795,7 +3573,7 @@
         aboutView.classList.add('active');
         aboutNavLink.classList.add('active');
         window.scrollTo({ top: 0, behavior: 'smooth' });
-        showToast('Viewing: Our Family Story & Team 💖');
+        showToast('Viewing: Our Family Story & Team');
       } else {
         aboutView.classList.remove('active');
         shopView.classList.add('active');
@@ -2814,206 +3592,67 @@
       setTimeout(() => filterTheme(themeKey), 50);
     }
 
-    // Category Filter Function
-    function filterCategory(category, buttonElement) {
+    // Category Filter Function (Live Shopify)
+    function filterCategory(category, sourceElement) {
       const searchInput = document.getElementById('site-search');
       if (searchInput) searchInput.value = '';
 
-      const chips = document.querySelectorAll('.filter-chip');
-      chips.forEach(chip => {
-        if (chip.getAttribute('data-cat') === category) {
-          chip.classList.add('active');
-        } else {
-          chip.classList.remove('active');
-        }
-      });
+      const categoryMap = {
+        'calendars': 'Calendars & Planners',
+        'art-prints': 'Art Prints',
+        'buggy-buddies': 'Buggy Buddies',
+        'drinkware': 'Drinkware',
+        'journals': 'Journals & Notebooks',
+        'stationery': 'Stationery & Post-It Notes',
+        'bookmarks': 'Bookmarks',
+        'apparel': 'Apparel',
+        'coasters': 'Coasters',
+        'cards': 'Greeting Cards & Note Cards',
+        'kukana': 'tag:Kukana'
+      };
 
-      const cards = document.querySelectorAll('.product-card');
-      let visibleCount = 0;
+      const mappedCat = categoryMap[category] || category;
 
-      cards.forEach(card => {
-        const cardCat = card.getAttribute('data-category');
-        if (category === 'all' || cardCat === category) {
-          card.style.display = 'flex';
-          card.style.opacity = '0';
-          setTimeout(() => {
-            card.style.transition = 'opacity 0.25s ease';
-            card.style.opacity = '1';
-          }, 10);
-          visibleCount++;
-        } else {
-          card.style.display = 'none';
-        }
-      });
+      const categorySelect = document.getElementById('category-select');
+      if (categorySelect) categorySelect.value = mappedCat;
 
-      const counter = document.getElementById('results-counter');
-      if (counter) {
-        if (category === 'all') {
-          counter.textContent = `Showing all ${visibleCount} products`;
-        } else {
-          const names = {
-            'calendars': 'Calendars & Planners',
-            'journals': 'Journals & Notebooks',
-            'buggy-buddies': 'Buggy Buddies',
-            'drinkware': 'Can Coolers & Coasters',
-            'art-prints': 'Matted Art Prints',
-            'stationery': 'Sticky Notes & Memos',
-            'bookmarks': 'Bookmarks & Tags'
-          };
-          counter.textContent = `Showing ${visibleCount} ${names[category] || category}`;
-        }
-      }
-
-      showToast(`Category: ${category === 'all' ? 'All Products' : category}`);
-
-      if (!buttonElement) {
-        const catalogEl = document.getElementById('catalog');
-        if (catalogEl) catalogEl.scrollIntoView({ behavior: 'smooth' });
+      if (window.ShopifyStore) {
+        window.ShopifyStore.filterCategory(mappedCat);
       }
     }
 
-    // Theme Filter Function
+    // Theme Filter Function (Live Shopify)
     function filterTheme(themeKey) {
       const searchInput = document.getElementById('site-search');
       if (searchInput) searchInput.value = '';
-      document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
 
-      const themeNames = {
-        'wild-women': 'Wild Women & Goddesses',
-        'sisterhood': 'Kindred Spirits & Sisterhood',
-        'faith': 'Faith & Inspiration',
-        'office-humor': 'Work & Daily Humor',
+      const themeTags = {
+        'wild-women': 'Wild Women',
+        'sisterhood': 'Sisterhood',
+        'faith': 'Faith',
+        'office-humor': 'Humor',
         'gifts-under-10': 'Gifts Under $10'
       };
 
-      const cards = document.querySelectorAll('.product-card');
-      let count = 0;
-
-      cards.forEach(card => {
-        const themes = (card.getAttribute('data-theme') || '').split(',');
-        if (themes.includes(themeKey)) {
-          card.style.display = 'flex';
-          card.style.opacity = '0';
-          setTimeout(() => {
-            card.style.transition = 'opacity 0.25s ease';
-            card.style.opacity = '1';
-          }, 10);
-          count++;
-        } else {
-          card.style.display = 'none';
-        }
-      });
-
-      const counter = document.getElementById('results-counter');
-      if (counter) {
-        counter.textContent = `Showing ${count} products in "${themeNames[themeKey] || themeKey}"`;
+      const tag = themeTags[themeKey] || themeKey;
+      if (window.ShopifyStore) {
+        window.ShopifyStore.filterTheme(tag);
       }
-
-      showToast(`Showing Theme: ${themeNames[themeKey]}`);
-      const catalogEl = document.getElementById('catalog');
-      if (catalogEl) catalogEl.scrollIntoView({ behavior: 'smooth' });
     }
 
-    // Live Search Filter
+    // Live Search Filter (Live Shopify)
     function handleSearch(val) {
       navigateTo('shop');
-      const q = val.toLowerCase().trim();
-      document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
-      const cards = document.querySelectorAll('.product-card');
-      let count = 0;
-
-      cards.forEach(card => {
-        const title = (card.querySelector('.card-title')?.textContent || '').toLowerCase();
-        const cat = (card.querySelector('.card-category')?.textContent || '').toLowerCase();
-        const sku = (card.querySelector('.card-sku')?.textContent || '').toLowerCase();
-        
-        if (!q || title.includes(q) || cat.includes(q) || sku.includes(q)) {
-          card.style.display = 'flex';
-          count++;
-        } else {
-          card.style.display = 'none';
-        }
-      });
-
-      const counter = document.getElementById('results-counter');
-      if (counter) {
-        counter.textContent = q ? `Found ${count} products matching "${q}"` : `Showing all ${count} products`;
+      if (window.ShopifyStore) {
+        window.ShopifyStore.handleSearch(val);
       }
     }
 
-    // Product Modal Details
-    function openProductModal(productId) {
-      const p = PRODUCTS[productId];
-      if (!p) return;
-
-      const modal = document.getElementById('product-modal');
-      const body = document.getElementById('modal-body-content');
-
-      let optionsHtml = '';
-      if (p.isCustomizable) {
-        optionsHtml = `
-          <div style="margin: 16px 0;">
-            <label style="display:block; font-weight:700; font-size:15px; margin-bottom:6px;">Select Journal Size:</label>
-            <select id="modal-size-select" style="width:100%; height:46px; font-size:16px; border-radius:8px; border:1px solid #cbd5e1; padding:0 12px;">
-              <option value="5x7">5" x 7" ($15.00)</option>
-              <option value="6x9">6" x 9" ($18.00)</option>
-              <option value="8.5x11">8.5" x 11" ($22.00)</option>
-            </select>
-          </div>
-          <div style="margin-bottom: 16px;">
-            <label style="display:block; font-weight:700; font-size:15px; margin-bottom:6px;">Cover Personalization:</label>
-            <select id="modal-namedrop-select" style="width:100%; height:46px; font-size:16px; border-radius:8px; border:1px solid #cbd5e1; padding:0 12px;">
-              <option value="standard">Standard Cover (No Name)</option>
-              <option value="namedrop">Personalized NameDrop on Cover (+$5.00)</option>
-            </select>
-          </div>
-        `;
+    // Product Modal Details (Live Shopify)
+    function openProductModal(handle) {
+      if (window.ShopifyStore) {
+        window.ShopifyStore.openModal(handle);
       }
-
-      let splitNotice = '';
-      if (p.isPreorder) {
-        splitNotice = `
-          <div class="split-shipping-notice">
-            <span>🚚</span>
-            <div>
-              <strong>Pre-Order Item (Ships October):</strong><br>
-              In-stock items purchased in the same cart ship immediately via Split Shipping.
-            </div>
-          </div>
-        `;
-      }
-
-      body.innerHTML = `
-        <div>
-          <img src="${p.img}" class="modal-img" alt="${p.title}">
-        </div>
-        <div>
-          <span style="color: var(--suzy-teal); font-weight:700; text-transform:uppercase; font-size:14px;">SKU: ${p.sku}</span>
-          <h2 style="font-family: var(--font-heading); font-size:24px; color: var(--suzy-purple); margin: 6px 0 10px 0;">${p.title}</h2>
-          <div style="font-size: 26px; font-weight: 800; color: var(--suzy-magenta); margin-bottom: 12px;">$${p.price.toFixed(2)}</div>
-          
-          <p style="font-size: 16px; line-height: 1.5; color: var(--suzy-text); margin-bottom: 14px;">${p.desc}</p>
-          
-          ${optionsHtml}
-          ${splitNotice}
-
-          <div style="display: flex; gap: 12px; align-items: center; margin-top: 20px;">
-            <button class="btn-primary" onclick="addToCart('${p.id}'); closeModal('product-modal');">
-              <span>🛒 Add to Cart — $${p.price.toFixed(2)}</span>
-            </button>
-          </div>
-
-          <div class="express-checkout-box" style="margin-top: 16px;">
-            <span class="express-label">1-Tap Express Checkout Preview</span>
-            <div class="express-buttons">
-              <button class="express-btn btn-shoppay" onclick="quickBuy('${p.id}')">Shop Pay</button>
-              <button class="express-btn btn-applepay" onclick="quickBuy('${p.id}')">Apple Pay</button>
-            </div>
-          </div>
-        </div>
-      `;
-
-      modal.classList.add('active');
     }
 
     // Help & FAQ Modal
@@ -3023,9 +3662,9 @@
 
       const content = {
         'preorder': `
-          <h2 style="font-family: var(--font-heading); font-size: 26px; color: var(--suzy-purple); margin-bottom: 12px;">🚚 2027 Calendar Pre-Orders & Split Shipping</h2>
+          <h2 style="font-family: var(--font-heading); font-size: 26px; color: var(--suzy-purple); margin-bottom: 12px;"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#truck-default"></use></svg> 2027 Calendar Pre-Orders & Split Shipping</h2>
           <div class="split-shipping-notice" style="margin-bottom: 16px;">
-            <span>💡</span>
+            <span><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#bulb-on"></use></svg></span>
             <div>
               <strong>Shopify Split Shipping Active:</strong><br>
               In our old WooCommerce store, mixing pre-orders with in-stock items held your entire shipment until October. On our new modernized store, <strong>Split Shipping is enabled automatically!</strong>
@@ -3039,7 +3678,7 @@
           </ul>
         `,
         'tracking': `
-          <h2 style="font-family: var(--font-heading); font-size: 26px; color: var(--suzy-purple); margin-bottom: 14px;">📦 Track Your Order Status</h2>
+          <h2 style="font-family: var(--font-heading); font-size: 26px; color: var(--suzy-purple); margin-bottom: 14px;"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#package-01"></use></svg> Track Your Order Status</h2>
           <p style="font-size: 16px; margin-bottom: 16px;">Enter your Order Number and Email to check fulfillment status:</p>
           <form onsubmit="handleOrderLookup(event)">
             <div style="margin-bottom: 12px;">
@@ -3055,13 +3694,13 @@
             </button>
           </form>
           <div id="tracking-result-box" style="display:none; background:#f8fafc; border:1px solid #cbd5e1; padding:16px; border-radius:8px;">
-            <div style="color:var(--suzy-teal); font-weight:700; font-size:16px; margin-bottom:6px;">✅ Order Found: #ST-2026-8492</div>
+            <div style="color:var(--suzy-teal); font-weight:700; font-size:16px; margin-bottom:6px;"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#check-tick-circle"></use></svg> Order Found: #ST-2026-8492</div>
             <p style="font-size:15px; margin-bottom:6px;"><strong>Shipment 1 (In-Stock):</strong> Shipped via USPS Ground (Tracking: 9400111899562817290123)</p>
             <p style="font-size:15px; color:var(--suzy-amber);"><strong>Shipment 2 (2027 Calendar Pre-Order):</strong> Scheduled for October 2026 Dispatch</p>
           </div>
         `,
         'returns': `
-          <h2 style="font-family: var(--font-heading); font-size: 26px; color: var(--suzy-purple); margin-bottom: 14px;">🔄 Easy Returns & Exchanges</h2>
+          <h2 style="font-family: var(--font-heading); font-size: 26px; color: var(--suzy-purple); margin-bottom: 14px;"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#refresh"></use></svg> Easy Returns & Exchanges</h2>
           <p style="font-size: 17px; line-height: 1.6; margin-bottom: 14px;">
             Need to swap an item or return a gift? No problem at all! You have 30 days from delivery to initiate a return for a full refund or store exchange.
           </p>
@@ -3070,7 +3709,7 @@
           </p>
         `,
         'contact': `
-          <h2 style="font-family: var(--font-heading); font-size: 26px; color: var(--suzy-purple); margin-bottom: 14px;">💬 Contact Customer Care</h2>
+          <h2 style="font-family: var(--font-heading); font-size: 26px; color: var(--suzy-purple); margin-bottom: 14px;"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#chat-default"></use></svg> Contact Customer Care</h2>
           <form onsubmit="handleContactSubmit(event)">
             <div style="margin-bottom: 12px;">
               <label style="display:block; font-weight:700; font-size:14px; margin-bottom:4px;">Your Name:</label>
@@ -3093,11 +3732,35 @@
 
       body.innerHTML = content[topic] || content['preorder'];
       modal.classList.add('active');
+
+      const contentEl = modal.querySelector('.modal-content');
+      const cueEl = document.getElementById('help-modal-scroll-cue');
+      if (contentEl && cueEl) {
+        const updateHelpCue = () => {
+          if (contentEl.scrollHeight > contentEl.clientHeight + 25) {
+            if (contentEl.scrollTop + contentEl.clientHeight >= contentEl.scrollHeight - 35) {
+              cueEl.classList.remove('visible');
+            } else {
+              cueEl.classList.add('visible');
+            }
+          } else {
+            cueEl.classList.remove('visible');
+          }
+        };
+        setTimeout(updateHelpCue, 120);
+        contentEl.onscroll = updateHelpCue;
+      }
     }
 
     function closeModal(modalId) {
       const el = document.getElementById(modalId);
       if (el) el.classList.remove('active');
+    }
+
+    function closeModalOnOverlay(e, modalId) {
+      if (e.target && e.target.id === modalId) {
+        closeModal(modalId);
+      }
     }
 
     function handleOrderLookup(e) {
@@ -3109,7 +3772,7 @@
     function handleContactSubmit(e) {
       e.preventDefault();
       closeModal('help-modal');
-      showToast('Thank you! Suzy’s team will reply within 24 hours. 🤗');
+      showToast('Thank you! Suzy’s team will reply within 24 hours.');
     }
 
     // Cart Management
@@ -3125,7 +3788,7 @@
       }
 
       updateCartUI();
-      showToast(`Added "${p.title.slice(0, 28)}..." to Cart! 🛒`);
+      showToast(`Added "${p.title.slice(0, 28)}..." to Cart!`);
       openCart();
     }
 
@@ -3159,7 +3822,7 @@
       if (cart.length === 0) {
         itemsContainer.innerHTML = `
           <div class="cart-empty-state">
-            <span style="font-size: 48px;">🛍️</span>
+            <span style="font-size: 48px;"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#purse-bag"></use></svg></span>
             <p style="font-weight: 700; margin-top: 10px;">Your cart is empty!</p>
             <p style="font-size: 15px; margin-top: 4px;">Explore our calendars, gifts, and journals.</p>
           </div>
@@ -3174,9 +3837,9 @@
             <div class="cart-item-title">${item.title}</div>
             <div class="cart-item-price">$${(item.price * item.qty).toFixed(2)}</div>
             <div class="cart-item-qty-ctrl">
-              <button class="qty-btn" onclick="changeQty('${item.id}', -1)">-</button>
+              <button class="qty-btn" aria-label="Decrease quantity" onclick="changeQty('${item.id}', -1)"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#minus-square"></use></svg></button>
               <span style="font-weight: 700; font-size: 15px;">${item.qty}</span>
-              <button class="qty-btn" onclick="changeQty('${item.id}', 1)">+</button>
+              <button class="qty-btn" aria-label="Increase quantity" onclick="changeQty('${item.id}', 1)"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#plus-square"></use></svg></button>
               <button class="cart-remove-btn" onclick="removeFromCart('${item.id}')">Remove</button>
             </div>
           </div>
@@ -3202,12 +3865,14 @@
 
     function openCart() {
       document.getElementById('cart-drawer-overlay').classList.add('active');
+      document.getElementById('cart-drawer').inert = false;
       document.getElementById('cart-drawer').classList.add('active');
     }
 
     function closeCart() {
       document.getElementById('cart-drawer-overlay').classList.remove('active');
       document.getElementById('cart-drawer').classList.remove('active');
+      document.getElementById('cart-drawer').inert = true;
     }
 
     function checkoutDemo(gateway) {
@@ -3219,7 +3884,10 @@
       const container = document.getElementById('toast-container');
       const toast = document.createElement('div');
       toast.className = 'toast';
-      toast.textContent = msg;
+      toast.innerHTML = '<svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#information-circle"></use></svg>';
+      const message = document.createElement('span');
+      message.textContent = msg;
+      toast.appendChild(message);
       container.appendChild(toast);
       setTimeout(() => {
         if (toast.parentNode) toast.parentNode.removeChild(toast);
@@ -3281,24 +3949,76 @@
       if (mobileSearch) mobileSearch.value = val;
     }
 
+    // Pause automatic rotation while visitors interact with the carousel.
+    (() => {
+      const carousel = document.querySelector('.hero-carousel');
+      const slides = [...carousel.querySelectorAll('.hero-slide')];
+      const dots = [...carousel.querySelectorAll('.hero-dot')];
+      const pauseButton = document.getElementById('hero-pause');
+      const status = carousel.querySelector('.hero-slide-status');
+      const stage = document.getElementById('hero-slides');
+      let current = 0;
+      let paused = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      let hovered = false;
+      let focused = false;
+      function show(index, announce = false) {
+        current = (index + slides.length) % slides.length;
+        slides.forEach((slide, i) => slide.hidden = i !== current);
+        dots.forEach((dot, i) => {
+          if (i === current) dot.setAttribute('aria-current', 'true');
+          else dot.removeAttribute('aria-current');
+        });
+        if (announce) status.textContent = slides[current].getAttribute('aria-label');
+      }
+      function updatePause() {
+        pauseButton.innerHTML = (paused ? '<svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#play-circle"></use></svg>' : '<svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#pause-circle"></use></svg>') + '<span>' + (paused ? 'Play' : 'Pause') + '</span>';
+        pauseButton.setAttribute('aria-label', paused ? 'Play carousel' : 'Pause carousel');
+        stage.setAttribute('aria-live', paused ? 'polite' : 'off');
+      }
+      let timer;
+      function restart() {
+        clearInterval(timer);
+        timer = setInterval(() => {
+          if (!paused && !hovered && !focused && !document.hidden && carousel.offsetParent !== null) show(current + 1);
+        }, 7000);
+      }
+      function select(index) { show(index, true); restart(); }
+      document.getElementById('hero-prev').addEventListener('click', () => select(current - 1));
+      document.getElementById('hero-next').addEventListener('click', () => select(current + 1));
+      dots.forEach((dot, i) => dot.addEventListener('click', () => select(i)));
+      pauseButton.addEventListener('click', () => { paused = !paused; updatePause(); restart(); });
+      carousel.addEventListener('mouseenter', () => hovered = true);
+      carousel.addEventListener('mouseleave', () => hovered = false);
+      carousel.addEventListener('focusin', () => focused = true);
+      carousel.addEventListener('focusout', event => focused = carousel.contains(event.relatedTarget));
+      let touchStart;
+      stage.addEventListener('touchstart', event => touchStart = event.changedTouches[0].clientX, {passive: true});
+      stage.addEventListener('touchend', event => {
+        const distance = event.changedTouches[0].clientX - touchStart;
+        if (Math.abs(distance) > 50) select(current + (distance < 0 ? 1 : -1));
+      }, {passive: true});
+      updatePause();
+      restart();
+    })();
+
   </script>
 
   <!-- Mobile Floating Quick Bar -->
   <nav class="mobile-bottom-bar" aria-label="Mobile Navigation Quick Bar">
     <button class="bottom-bar-btn" onclick="navigateTo('shop')">
-      <span class="bottom-icon">🛍️</span>
+      <span class="bottom-icon"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#purse-bag"></use></svg></span>
       <span>Shop</span>
     </button>
     <button class="bottom-bar-btn" onclick="toggleMobileNav()">
-      <span class="bottom-icon">📑</span>
+      <span class="bottom-icon"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#bookmark-default"></use></svg></span>
       <span>Menu</span>
     </button>
     <button class="bottom-bar-btn" onclick="navigateTo('about')">
-      <span class="bottom-icon">💖</span>
+      <span class="bottom-icon"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#heart"></use></svg></span>
       <span>Our Story</span>
     </button>
     <button class="bottom-bar-btn" onclick="openCart()">
-      <span class="bottom-icon">🛒</span>
+      <span class="bottom-icon"><svg class="pika-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="assets/icons/pika-duo-solid.svg#shopping-cart"></use></svg></span>
       <span>Cart (<span id="mobile-bar-cart-count">0</span>)</span>
     </button>
   </nav>

@@ -1,0 +1,5142 @@
+[
+  {
+    "id": 33,
+    "count": 130,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/prints-gifty-art/wonderful-wacky-women/",
+    "name": "01-Wonderful Wacky Women",
+    "slug": "wonderful-wacky-women",
+    "taxonomy": "product_cat",
+    "parent": 23,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/33",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/23"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=33"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "count": 51,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/prints-gifty-art/tingleheart/",
+    "name": "02-TingleHeart",
+    "slug": "tingleheart",
+    "taxonomy": "product_cat",
+    "parent": 23,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/34",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/23"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=34"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "count": 41,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/prints-gifty-art/words-to-live-by/",
+    "name": "03-Words to Live By",
+    "slug": "words-to-live-by",
+    "taxonomy": "product_cat",
+    "parent": 23,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/91",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/23"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=91"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "count": 13,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/prints-gifty-art/divas-of-the-deep/",
+    "name": "04-Divas of the Deep",
+    "slug": "divas-of-the-deep",
+    "taxonomy": "product_cat",
+    "parent": 23,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/36",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/23"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=36"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "count": 5,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/prints-gifty-art/kwirky-kids/",
+    "name": "05-Kwirky Kids",
+    "slug": "kwirky-kids",
+    "taxonomy": "product_cat",
+    "parent": 23,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/35",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/23"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=35"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "count": 6,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/prints-gifty-art/06-tingleboots/",
+    "name": "06-TingleBoots",
+    "slug": "06-tingleboots",
+    "taxonomy": "product_cat",
+    "parent": 23,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/37",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/23"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=37"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "count": 10,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/prints-gifty-art/mighty-men/",
+    "name": "07-Our Mighty Men",
+    "slug": "mighty-men",
+    "taxonomy": "product_cat",
+    "parent": 23,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/92",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/23"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=92"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1748,
+    "count": 19,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/16oz-4-in-1-stainless-steel-can-cooler-tumblers/",
+    "name": "16oz. (4 in 1) Stainless Steel Can Cooler Tumblers",
+    "slug": "16oz-4-in-1-stainless-steel-can-cooler-tumblers",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1748",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1748"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1335,
+    "count": 4,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/2027-calendars-planner/",
+    "name": "2027 Calendars &amp; Planner",
+    "slug": "2027-calendars-planner",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1335",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1335"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "count": 67,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/luggage-tags/",
+    "name": "Bag Tags",
+    "slug": "luggage-tags",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/24",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=24"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1020,
+    "count": 30,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/best-girlfriends/",
+    "name": "Best Girlfriends",
+    "slug": "best-girlfriends",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1020",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1020"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1282,
+    "count": 14,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/birthday-of-the-month/",
+    "name": "Birthday of the Month",
+    "slug": "birthday-of-the-month",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1282",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1282"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1592,
+    "count": 2,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/birthday-of-the-month-tumblers/",
+    "name": "Birthday of the Month - Tumblers",
+    "slug": "birthday-of-the-month-tumblers",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1592",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1592"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 995,
+    "count": 38,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/birthdays/",
+    "name": "Birthdays",
+    "slug": "birthdays",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/995",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=995"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "count": 46,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/bookmarks/",
+    "name": "Bookmarks",
+    "slug": "bookmarks",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/27",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=27"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "count": 10,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/books/",
+    "name": "Books",
+    "slug": "books",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/28",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=28"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1122,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/brother-gifts/",
+    "name": "Brother - Gifts",
+    "slug": "brother-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1122",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1122"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1817,
+    "count": 7,
+    "description": "My local grocery store requires a  quarter be inserted to use a grocery buggy. (Some peeps call them a grocery “carts” but you get the idea ) When I return it, my quarter pops out.  It’s their way to assure people do the right thing and return their buggy/cart.  Well, wacky me, I never have a quarter on me. So we invented this wacky little “Buggy Buddy” that hangs on my key chain that slides into the quarter slot and works perfectly.  When I return my cart my keys are released and I’m ready to drive away. I really loved this so I went ahead and created 12 different designs.  I even have them on my husbands keys for when he has to stop and grab groceries.  It a fun, practical, useful way to share the tingle and stop searching for a quarter. ",
+    "link": "https://suzytoronto.com/product-category/buggy-buddies/",
+    "name": "Buggy Buddies",
+    "slug": "buggy-buddies",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1817",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1817"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1728,
+    "count": 20,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/car-coasters/",
+    "name": "Car Cup Coasters",
+    "slug": "car-coasters",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1728",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1728"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1136,
+    "count": 8,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/cat-collection/",
+    "name": "Cat Collection",
+    "slug": "cat-collection",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1136",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1136"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1593,
+    "count": 21,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/chocolate-collection/",
+    "name": "Chocolate Collection",
+    "slug": "chocolate-collection",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1593",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1593"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1033,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/christmas/",
+    "name": "Christmas",
+    "slug": "christmas",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1033",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1033"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1105,
+    "count": 37,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/christmas-collection/",
+    "name": "Christmas Collection",
+    "slug": "christmas-collection",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1105",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1105"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "count": 137,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/coasters/",
+    "name": "Coasters",
+    "slug": "coasters",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/25",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=25"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "count": 397,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/",
+    "name": "Collections",
+    "slug": "collections",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=38"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1016,
+    "count": 27,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/daughter/",
+    "name": "Daughter",
+    "slug": "daughter",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1016",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1016"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1111,
+    "count": 26,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/daughter-gifts/",
+    "name": "Daughter - Gifts",
+    "slug": "daughter-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1111",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1111"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1590,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/divas-of-the-deep-tumblers/",
+    "name": "Divas of the Deep - Tumblers",
+    "slug": "divas-of-the-deep-tumblers",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1590",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1590"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1137,
+    "count": 9,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/dog-collection/",
+    "name": "Dog Collection",
+    "slug": "dog-collection",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1137",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1137"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1361,
+    "count": 28,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/drawstring-backpacks/backpacks/",
+    "name": "Drawstring Backpacks - 15\" x 13\"",
+    "slug": "backpacks",
+    "taxonomy": "product_cat",
+    "parent": 1328,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1361",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1328"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1361"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1328,
+    "count": 28,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/drawstring-backpacks/",
+    "name": "Drawstring Backpacks &amp; Totes",
+    "slug": "drawstring-backpacks",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1328",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1328"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1749,
+    "count": 13,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-prints/giftable-easel-prints/",
+    "name": "Easel Prints",
+    "slug": "giftable-easel-prints",
+    "taxonomy": "product_cat",
+    "parent": 1170,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1749",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1170"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1749"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "count": 31,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/everything-else/",
+    "name": "EVERYTHING ELSE...",
+    "slug": "everything-else",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/32",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1138,
+    "count": 12,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/extended-family-gifts/",
+    "name": "Extended Family - Gifts",
+    "slug": "extended-family-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1138",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1138"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1123,
+    "count": 14,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/father-gifts/",
+    "name": "Father - Gifts",
+    "slug": "father-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1123",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1123"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 994,
+    "count": 5,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/fathers-day/",
+    "name": "Father's Day",
+    "slug": "fathers-day",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/994",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=994"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1114,
+    "count": 59,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/friend-gifts/",
+    "name": "Friend - Gifts",
+    "slug": "friend-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1114",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1114"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "count": 22,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/gathering-of-the-goddesses/",
+    "name": "Gathering of the Goddesses",
+    "slug": "gathering-of-the-goddesses",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/45",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=45"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1581,
+    "count": 12,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/32-x-32-canvas-art-large/",
+    "name": "Giclée Print on 32″ x 32″ Canvas",
+    "slug": "32-x-32-canvas-art-large",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1581",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1581"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "count": 167,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/",
+    "name": "Gift Ideas for...",
+    "slug": "gift-ideas",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=69"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1006,
+    "count": 6,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/graduation/",
+    "name": "Graduation",
+    "slug": "graduation",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1006",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1006"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1125,
+    "count": 13,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/grandchildren-gifts/",
+    "name": "Grandchildren - Gifts",
+    "slug": "grandchildren-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1125",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1125"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1005,
+    "count": 6,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/granddaughter/",
+    "name": "Granddaughter",
+    "slug": "granddaughter",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1005",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1005"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1135,
+    "count": 11,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/granddaughter-gifts/",
+    "name": "Granddaughter - Gifts",
+    "slug": "granddaughter-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1135",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1135"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1134,
+    "count": 7,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/grandson-gifts/",
+    "name": "Grandson - Gifts",
+    "slug": "grandson-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1134",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1134"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 988,
+    "count": 213,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/",
+    "name": "Greeting Cards",
+    "slug": "greeting-cards",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=988"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1121,
+    "count": 8,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/husband-gifts/",
+    "name": "Husband - Gifts",
+    "slug": "husband-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1121",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1121"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1010,
+    "count": 44,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/encouragement-for-tough-times/",
+    "name": "Inspiring, Uplifting &amp; Empowering",
+    "slug": "encouragement-for-tough-times",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1010",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1010"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/irish-celtic-collection/",
+    "name": "Irish / Celtic Collection",
+    "slug": "irish-celtic-collection",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/48",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=48"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1269,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/jewelry/",
+    "name": "Jewelry",
+    "slug": "jewelry",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1269",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1269"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1421,
+    "count": 90,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/key-chains/",
+    "name": "Key Chains",
+    "slug": "key-chains",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1421",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1421"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1169,
+    "count": 148,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/",
+    "name": "Kukana",
+    "slug": "kukana",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1169"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1173,
+    "count": 13,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-coasters/",
+    "name": "Kukana - Coasters",
+    "slug": "kukana-coasters",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1173",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1173"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1176,
+    "count": 9,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-daughter-gifts/",
+    "name": "Kukana - Daughter - Gifts",
+    "slug": "kukana-daughter-gifts",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1176",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1176"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1181,
+    "count": 31,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-encouraging-uplifting-gifts/",
+    "name": "Kukana - Encouraging/Uplifting - Gifts",
+    "slug": "kukana-encouraging-uplifting-gifts",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1181",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1181"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1177,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-friend-gifts/",
+    "name": "Kukana - Friend - Gifts",
+    "slug": "kukana-friend-gifts",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1177",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1177"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1183,
+    "count": 6,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-grandchildren-gifts/",
+    "name": "Kukana - Grandchildren - Gifts",
+    "slug": "kukana-grandchildren-gifts",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1183",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1183"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1174,
+    "count": 47,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/keepers-by-kukana-greeting-cards/",
+    "name": "Kukana - greeting cards",
+    "slug": "keepers-by-kukana-greeting-cards",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1174",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1174"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1550,
+    "count": 8,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-memo-pads/",
+    "name": "Kukana - Memo Pads w magnet",
+    "slug": "kukana-memo-pads",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1550",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1550"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1179,
+    "count": 7,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-mother-gifts/",
+    "name": "Kukana - Mom / Dad - Gifts",
+    "slug": "kukana-mother-gifts",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1179",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1179"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1551,
+    "count": 15,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-note-cards/",
+    "name": "Kukana - Note Cards",
+    "slug": "kukana-note-cards",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1551",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1551"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1182,
+    "count": 4,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-partner-spouse-gifts/",
+    "name": "Kukana - Partner/Spouse - Gifts",
+    "slug": "kukana-partner-spouse-gifts",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1182",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1182"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1170,
+    "count": 39,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-prints/",
+    "name": "Kukana - Prints",
+    "slug": "kukana-prints",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1170",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1170"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1178,
+    "count": 9,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-sister-gifts/",
+    "name": "Kukana - Sister - Gifts",
+    "slug": "kukana-sister-gifts",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1178",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1178"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1172,
+    "count": 26,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-mouse-pads/",
+    "name": "Kukana - Snack Mats",
+    "slug": "kukana-mouse-pads",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1172",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1172"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1180,
+    "count": 6,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-son-gifts/",
+    "name": "Kukana - Son - Gifts",
+    "slug": "kukana-son-gifts",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1180",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1180"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1171,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-ss_tumblers/",
+    "name": "Kukana - SS_Tumblers",
+    "slug": "kukana-ss_tumblers",
+    "taxonomy": "product_cat",
+    "parent": 1169,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1171",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1169"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1171"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1004,
+    "count": 14,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/love-marriage/",
+    "name": "Love &amp; Marriage",
+    "slug": "love-marriage",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1004",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1004"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1634,
+    "count": 87,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/magnets/",
+    "name": "Magnets",
+    "slug": "magnets",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1634",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1634"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1750,
+    "count": 26,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/kukana/kukana-prints/matted-prints/",
+    "name": "Matted Prints",
+    "slug": "matted-prints",
+    "taxonomy": "product_cat",
+    "parent": 1170,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1750",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1170"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1750"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "count": 35,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/memo-pads/",
+    "name": "Memo Pads w magnet",
+    "slug": "memo-pads",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/29",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=29"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "count": 51,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/mermaids-divas-of-the-deep-collection/",
+    "name": "Mermaid (Divas of the Deep) Collection",
+    "slug": "mermaids-divas-of-the-deep-collection",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/49",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=49"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1030,
+    "count": 6,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/mom/",
+    "name": "Mom",
+    "slug": "mom",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1030",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1030"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1120,
+    "count": 28,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/mother-gifts/",
+    "name": "Mother - Gifts",
+    "slug": "mother-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1120",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1120"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1031,
+    "count": 5,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/mothers-day/",
+    "name": "Mother's Day",
+    "slug": "mothers-day",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1031",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1031"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "count": 93,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/mouse-pads/",
+    "name": "Mouse Pads",
+    "slug": "mouse-pads",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/26",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=26"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1840,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/note-books-and-journals/",
+    "name": "Note Books / Journals",
+    "slug": "note-books-and-journals",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1840",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1840"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "count": 64,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/note-cards/",
+    "name": "Note Cards",
+    "slug": "note-cards",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/30",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=30"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 982,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/pens-rollerball/",
+    "name": "Pens (rollerball)",
+    "slug": "pens-rollerball",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/982",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=982"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1110,
+    "count": 24,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/pet-cat-dog-horse-collection/",
+    "name": "Pets (Cats, Dogs &amp; Horses) - Collection",
+    "slug": "pet-cat-dog-horse-collection",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1110",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1110"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1724,
+    "count": 14,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/pickleball-collection/",
+    "name": "Pickleball Collection",
+    "slug": "pickleball-collection",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1724",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1724"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1059,
+    "count": 13,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/pink-ribbon-sisterhood/",
+    "name": "Pink Ribbon Sisterhood",
+    "slug": "pink-ribbon-sisterhood",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1059",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1059"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1619,
+    "count": 10,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/pocket-note-pads/",
+    "name": "Pocket Note Pads",
+    "slug": "pocket-note-pads",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1619",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1619"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1701,
+    "count": 12,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/post-it-notes-sticky-tingles/",
+    "name": "Post It Notes \"Sticky Tingles\"",
+    "slug": "post-it-notes-sticky-tingles",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1701",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1701"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "count": 248,
+    "description": "Featured in a double white mat, showcasing the artwork with the heartfelt message either on the front or added to back I feel blessed that my art and writings have be a part of making hearts tingle all over the world for over 20 years and it all started with these 8” x 10” Double Matted Art Prints. Easy-to-mail and Easy-to-frame\r\n\r\nClick on one of the below Categories to see hundreds of available designs!",
+    "link": "https://suzytoronto.com/product-category/prints-gifty-art/",
+    "name": "Prints / Gifty Art",
+    "slug": "prints-gifty-art",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/23",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=23"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1057,
+    "count": 23,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/america/",
+    "name": "PROUD to be an AMERICAN",
+    "slug": "america",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1057",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1057"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "count": 79,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/quilting-collection/",
+    "name": "Quilt / Fabric Collection",
+    "slug": "quilting-collection",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/52",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=52"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1591,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/quilting-tumblers/",
+    "name": "Quilting - Tumblers",
+    "slug": "quilting-tumblers",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1591",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1591"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1371,
+    "count": 12,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/recipe-cards/",
+    "name": "Recipe Cards (18 pack)",
+    "slug": "recipe-cards",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1371",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1371"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1530,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/rubber-stamps/",
+    "name": "Rubber Stamps",
+    "slug": "rubber-stamps",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1530",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1530"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1113,
+    "count": 13,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/sister-gifts/",
+    "name": "Sister - Gifts",
+    "slug": "sister-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1113",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1113"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1029,
+    "count": 15,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/sisters/",
+    "name": "Sisters",
+    "slug": "sisters",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1029",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1029"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1021,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/my-son/",
+    "name": "Son",
+    "slug": "my-son",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1021",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1021"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1115,
+    "count": 11,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/gift-ideas/son-gifts/",
+    "name": "Son - Gifts",
+    "slug": "son-gifts",
+    "taxonomy": "product_cat",
+    "parent": 69,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1115",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/69"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1115"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 915,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/stainless-steel-tumblers/",
+    "name": "Stainless Steel Tumblers",
+    "slug": "stainless-steel-tumblers",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/915",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=915"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1702,
+    "count": 6,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/stickers/",
+    "name": "Stickers",
+    "slug": "stickers",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1702",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1702"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1607,
+    "count": 69,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/t-shirts-sweatshirts-limited/",
+    "name": "T-Shirts (LIMITED EDITION)",
+    "slug": "t-shirts-sweatshirts-limited",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1607",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1607"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1022,
+    "count": 11,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/the-other-mighty-men-in-our-lives-husbands-brothers/",
+    "name": "the Other Mighty Men in our lives (Husbands &amp; Brothers)",
+    "slug": "the-other-mighty-men-in-our-lives-husbands-brothers",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1022",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1022"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1589,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/tingleboots-tumblers/",
+    "name": "TingleBoots - Tumblers",
+    "slug": "tingleboots-tumblers",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1589",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1589"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1060,
+    "count": 77,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/tingleboots-country/",
+    "name": "TingleBoots (Country)",
+    "slug": "tingleboots-country",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1060",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1060"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1362,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/drawstring-backpacks/tote-bags/",
+    "name": "Tote Bags - 15\" x 14\" x 2.5\"",
+    "slug": "tote-bags",
+    "taxonomy": "product_cat",
+    "parent": 1328,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1362",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1328"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1362"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1032,
+    "count": 3,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/greeting-cards/valentines-day/",
+    "name": "Valentine's Day",
+    "slug": "valentines-day",
+    "taxonomy": "product_cat",
+    "parent": 988,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1032",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/988"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1032"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1527,
+    "count": 23,
+    "description": "",
+    "link": "https://suzytoronto.com/product-category/collections/valentines-day-all/",
+    "name": "Valentine's Day (Gifts for)",
+    "slug": "valentines-day-all",
+    "taxonomy": "product_cat",
+    "parent": 38,
+    "meta": [],
+    "menu_order": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/1527",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_cat/38"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_cat=1527"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

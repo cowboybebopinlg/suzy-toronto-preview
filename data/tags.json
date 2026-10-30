@@ -1,0 +1,4798 @@
+[
+  {
+    "id": 1762,
+    "count": 3,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/12-month-calendar/",
+    "name": "12 Month Calendar",
+    "slug": "12-month-calendar",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1762",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1762"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1761,
+    "count": 2,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/12-x-12/",
+    "name": "12\" x 12\"",
+    "slug": "12-x-12",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1761",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1761"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1774,
+    "count": 3,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/2026/",
+    "name": "2026",
+    "slug": "2026",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1774",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1774"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1760,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/2026-calendar/",
+    "name": "2026 Calendar",
+    "slug": "2026-calendar",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1760",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1760"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1770,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/2026-weekly-planner/",
+    "name": "2026 Weekly Planner",
+    "slug": "2026-weekly-planner",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1770",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1770"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1834,
+    "count": 3,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/2027/",
+    "name": "2027",
+    "slug": "2027",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1834",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1834"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1783,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/304-stainless-steel/",
+    "name": "304 Stainless Steel",
+    "slug": "304-stainless-steel",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1783",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1783"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1804,
+    "count": 12,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/3m-post-it-notes/",
+    "name": "3M post-it notes",
+    "slug": "3m-post-it-notes",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1804",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1804"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1779,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/4-in-1/",
+    "name": "4 in 1",
+    "slug": "4-in-1",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1779",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1779"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1849,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/5-x-7/",
+    "name": "5 x 7",
+    "slug": "5-x-7",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1849",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1849"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1805,
+    "count": 12,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/50-pages/",
+    "name": "50 pages",
+    "slug": "50-pages",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1805",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1805"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1824,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/501/",
+    "name": "501",
+    "slug": "501",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1824",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1824"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1825,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/524/",
+    "name": "524",
+    "slug": "524",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1825",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1825"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1826,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/533/",
+    "name": "533",
+    "slug": "533",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1826",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1826"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1827,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/534/",
+    "name": "534",
+    "slug": "534",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1827",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1827"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1828,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/589/",
+    "name": "589",
+    "slug": "589",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1828",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1828"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1848,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/5x7/",
+    "name": "5x7",
+    "slug": "5x7",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1848",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1848"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1864,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/6-x-9/",
+    "name": "6 x 9",
+    "slug": "6-x-9",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1864",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1864"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1829,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/606/",
+    "name": "606",
+    "slug": "606",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1829",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1829"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1830,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/609/",
+    "name": "609",
+    "slug": "609",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1830",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1830"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1863,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/6x9/",
+    "name": "6x9",
+    "slug": "6x9",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1863",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1863"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1777,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/7-5-x-7-5/",
+    "name": "7.5\" x 7.5\"",
+    "slug": "7-5-x-7-5",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1777",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1777"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1775,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/7-5-x-7-5-calendar/",
+    "name": "7.5\" x 7.5\" Calendar",
+    "slug": "7-5-x-7-5-calendar",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1775",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1775"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1866,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/8-5-x-11/",
+    "name": "8.5 x 11",
+    "slug": "8-5-x-11",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1866",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1866"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1865,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/8-5x11/",
+    "name": "8.5x11",
+    "slug": "8-5x11",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1865",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1865"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1799,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/8-x-10/",
+    "name": "8\" x 10\"",
+    "slug": "8-x-10",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1799",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1799"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1772,
+    "count": 2,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/8-x-5-5/",
+    "name": "8\" x 5.5\"",
+    "slug": "8-x-5-5",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1772",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1772"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1784,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/8-18-food-grade/",
+    "name": "8/18 food grade",
+    "slug": "8-18-food-grade",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1784",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1784"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1831,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/867/",
+    "name": "867",
+    "slug": "867",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1831",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1831"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1832,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/875/",
+    "name": "875",
+    "slug": "875",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1832",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1832"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1833,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/877/",
+    "name": "877",
+    "slug": "877",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1833",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1833"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1871,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/add-on/",
+    "name": "add-on",
+    "slug": "add-on",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1871",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1871"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1819,
+    "count": 7,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/aldi/",
+    "name": "Aldi",
+    "slug": "aldi",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1819",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1819"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1800,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/art-print/",
+    "name": "Art Print",
+    "slug": "art-print",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1800",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1800"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1809,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/bamboo-lids/",
+    "name": "bamboo lids",
+    "slug": "bamboo-lids",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1809",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1809"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1821,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/bb031/",
+    "name": "BB031",
+    "slug": "bb031",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1821",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1821"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1867,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/blank/",
+    "name": "blank",
+    "slug": "blank",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1867",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1867"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1814,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/boba/",
+    "name": "boba",
+    "slug": "boba",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1814",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1814"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1843,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/book/",
+    "name": "book",
+    "slug": "book",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1843",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1843"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1806,
+    "count": 12,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/bright/",
+    "name": "bright",
+    "slug": "bright",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1806",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1806"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1818,
+    "count": 7,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/buggy-buddies/",
+    "name": "buggy buddies",
+    "slug": "buggy-buddies",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1818",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1818"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1768,
+    "count": 4,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/calendar/",
+    "name": "Calendar",
+    "slug": "calendar",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1768",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1768"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1746,
+    "count": 19,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/can-cooler/",
+    "name": "Can Cooler",
+    "slug": "can-cooler",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1746",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1746"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1810,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/can-shaped/",
+    "name": "can shaped",
+    "slug": "can-shaped",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1810",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1810"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1822,
+    "count": 7,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/cart-buddies/",
+    "name": "Cart Buddies",
+    "slug": "cart-buddies",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1822",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1822"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1823,
+    "count": 7,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/cart-buddy/",
+    "name": "Cart Buddy",
+    "slug": "cart-buddy",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1823",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1823"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1773,
+    "count": 31,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/colorful/",
+    "name": "Colorful",
+    "slug": "colorful",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1773",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1773"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1787,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/dishwasher-safe/",
+    "name": "dishwasher safe",
+    "slug": "dishwasher-safe",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1787",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1787"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1869,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/dotted/",
+    "name": "dotted",
+    "slug": "dotted",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1869",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1869"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1797,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/drink-holder/",
+    "name": "Drink Holder",
+    "slug": "drink-holder",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1797",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1797"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1812,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/drinking-glass-tumbler/",
+    "name": "drinking glass tumbler",
+    "slug": "drinking-glass-tumbler",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1812",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1812"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1789,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/dual-vacuum-wall/",
+    "name": "dual vacuum wall",
+    "slug": "dual-vacuum-wall",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1789",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1789"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1782,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/durable/",
+    "name": "Durable",
+    "slug": "durable",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1782",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1782"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1796,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/durable-construction/",
+    "name": "Durable Construction",
+    "slug": "durable-construction",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1796",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1796"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1836,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/earth-day/",
+    "name": "earth day",
+    "slug": "earth-day",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1836",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1836"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1752,
+    "count": 13,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/easel/",
+    "name": "Easel",
+    "slug": "easel",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1752",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1752"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1839,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/f199/",
+    "name": "F199",
+    "slug": "f199",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1839",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1839"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1769,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/for-granddaughter/",
+    "name": "for Granddaughter",
+    "slug": "for-granddaughter",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1769",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1769"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1763,
+    "count": 2,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/gem-and-glitter-options/",
+    "name": "Gem and Glitter options",
+    "slug": "gem-and-glitter-options",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1763",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1763"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1764,
+    "count": 2,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/gem-options/",
+    "name": "Gem options",
+    "slug": "gem-options",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1764",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1764"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1816,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/gift/",
+    "name": "gift",
+    "slug": "gift",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1816",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1816"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1808,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/glass-cups/",
+    "name": "Glass cups",
+    "slug": "glass-cups",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1808",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1808"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1765,
+    "count": 2,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/glitter-options/",
+    "name": "Glitter options",
+    "slug": "glitter-options",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1765",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1765"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1837,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/gone-green/",
+    "name": "gone green",
+    "slug": "gone-green",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1837",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1837"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1785,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/handle-cover/",
+    "name": "Handle cover",
+    "slug": "handle-cover",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1785",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1785"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 611,
+    "count": 9,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/hard-cover/",
+    "name": "Hard cover",
+    "slug": "hard-cover",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/611",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=611"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1844,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/journal/",
+    "name": "journal",
+    "slug": "journal",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1844",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1844"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1781,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/lids/",
+    "name": "lids",
+    "slug": "lids",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1781",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1781"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1868,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/lined/",
+    "name": "lined",
+    "slug": "lined",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1868",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1868"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1801,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/matted/",
+    "name": "Matted",
+    "slug": "matted",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1801",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1801"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1795,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/modern-cooler/",
+    "name": "Modern Cooler",
+    "slug": "modern-cooler",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1795",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1795"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1798,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/multifunctional/",
+    "name": "Multifunctional",
+    "slug": "multifunctional",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1798",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1798"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1870,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/namedrop/",
+    "name": "namedrop",
+    "slug": "namedrop",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1870",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1870"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1842,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/note/",
+    "name": "note",
+    "slug": "note",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1842",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1842"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1841,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/notebook/",
+    "name": "notebook",
+    "slug": "notebook",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1841",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1841"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1793,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/outdoor-parties/",
+    "name": "Outdoor parties",
+    "slug": "outdoor-parties",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1793",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1793"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1791,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/party-drinkware/",
+    "name": "Party Drinkware",
+    "slug": "party-drinkware",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1791",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1791"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1759,
+    "count": 0,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/peo/",
+    "name": "PEO",
+    "slug": "peo",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1759",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1759"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1794,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/picnic-essential/",
+    "name": "Picnic Essential",
+    "slug": "picnic-essential",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1794",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1794"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1771,
+    "count": 2,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/planner/",
+    "name": "Planner",
+    "slug": "planner",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1771",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1771"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1790,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/portable-design/",
+    "name": "Portable Design",
+    "slug": "portable-design",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1790",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1790"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1835,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/pre-order/",
+    "name": "Pre-order",
+    "slug": "pre-order",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1835",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1835"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1802,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/ready-for-framing/",
+    "name": "Ready for Framing",
+    "slug": "ready-for-framing",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1802",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1802"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1838,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/recycle/",
+    "name": "recycle",
+    "slug": "recycle",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1838",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1838"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1811,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/reusable-iced-coffee-cups/",
+    "name": "reusable iced coffee cups",
+    "slug": "reusable-iced-coffee-cups",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1811",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1811"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1683,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/set-of-12/",
+    "name": "set of 12",
+    "slug": "set-of-12",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1683",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1683"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1692,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/set-of-6/",
+    "name": "set of 6",
+    "slug": "set-of-6",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1692",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1692"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1850,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/sketch/",
+    "name": "sketch",
+    "slug": "sketch",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1850",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1850"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1845,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/sketch-book/",
+    "name": "sketch book",
+    "slug": "sketch-book",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1845",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1845"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1846,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/sketchbook/",
+    "name": "sketchbook",
+    "slug": "sketchbook",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1846",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1846"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1792,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/sleek-cylindrical-cooler/",
+    "name": "Sleek Cylindrical Cooler",
+    "slug": "sleek-cylindrical-cooler",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1792",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1792"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1786,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/sliding-seal/",
+    "name": "sliding seal",
+    "slug": "sliding-seal",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1786",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1786"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1776,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/small/",
+    "name": "Small",
+    "slug": "small",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1776",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1776"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1813,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/soda/",
+    "name": "soda",
+    "slug": "soda",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1813",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1813"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1710,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/soft-cover/",
+    "name": "soft cover",
+    "slug": "soft-cover",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1710",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1710"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1709,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/softcover/",
+    "name": "softcover",
+    "slug": "softcover",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1709",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1709"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1847,
+    "count": 16,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/spiral-binding/",
+    "name": "spiral binding",
+    "slug": "spiral-binding",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1847",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1847"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1062,
+    "count": 23,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/stainless-steel/",
+    "name": "Stainless Steel",
+    "slug": "stainless-steel",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1062",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1062"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1807,
+    "count": 12,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/sticky-notes/",
+    "name": "sticky notes",
+    "slug": "sticky-notes",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1807",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1807"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1780,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/straw/",
+    "name": "Straw",
+    "slug": "straw",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1780",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1780"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1788,
+    "count": 17,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/sweat-proof/",
+    "name": "sweat proof",
+    "slug": "sweat-proof",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1788",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1788"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1609,
+    "count": 3,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/sweatshirt/",
+    "name": "Sweatshirt",
+    "slug": "sweatshirt",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1609",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1609"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1614,
+    "count": 5,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/t-shirt/",
+    "name": "T-Shirt",
+    "slug": "t-shirt",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1614",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1614"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1815,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/tea/",
+    "name": "tea",
+    "slug": "tea",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1815",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1815"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1820,
+    "count": 7,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/trolly-token/",
+    "name": "trolly token",
+    "slug": "trolly-token",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1820",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1820"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1383,
+    "count": 8,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/vintage/",
+    "name": "Vintage",
+    "slug": "vintage",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1383",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1383"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1538,
+    "count": 3,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/website-exclusive/",
+    "name": "website exclusive",
+    "slug": "website-exclusive",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1538",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1538"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1778,
+    "count": 2,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/weekly-planner/",
+    "name": "Weekly Planner",
+    "slug": "weekly-planner",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1778",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1778"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1803,
+    "count": 1,
+    "description": "",
+    "link": "https://suzytoronto.com/product-tag/white-matte/",
+    "name": "White Matte",
+    "slug": "white-matte",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag/1803",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suzytoronto.com/wp-json/wp/v2/product?product_tag=1803"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
